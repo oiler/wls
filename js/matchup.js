@@ -1,0 +1,26 @@
+{"links" : {
+	"NHL": "",
+	"yahoo": "http://sports.yahoo.com/nhl/scoreboard",
+	"schedule": "http://forecaster.canada.com/faceoff/hockey/schedule.cgi",
+	"tott": "http://forecaster.canada.com/faceoff/hockey/tott.cgi?TB",
+	"goalie": "http://thegoalieguild.com/sgri/",
+	"daily faceoff": "http://www2.dailyfaceoff.com/starting-goalies/",
+	"team stats": "http://www.nhl.com/ice/teamstats.htm",
+	"rink blog": "http://www.nhl.com/ice/blog.htm?id=219",
+	"usa today": "http://sportsdirect.usatoday.com/matchups/nhl-matchups.aspx",
+	"GEN": "",
+	"al": "http://www.bigal.com/Subscriptions/main.cfm",
+	"beyond": "http://www.beyondthebets.com/",
+	"fezzik": "http://lvasports.com/index.cfm",
+	"lva boards": "http://www.lvasportsboards.com/",
+	"covers": "http://www.covers.com/",
+	"service plays": "http://forum.sbrforum.com/service-plays/",
+	"rx service": "http://www.therxforum.com/forumdisplay.php?f=216",
+	"cfb picks": "http://www.handicapper.net/college-football-picks.php",
+	"football post": "http://www.nationalfootballpost.com/sports-betting-analysis.html",
+	"wagerminds": "vwww.wagerminds.com",
+	"database": "http://sportsdatabase.com/",
+	"insights": "http://www.sportsinsights.com/blog/",
+	"steele": "http://www.philsteele.com"
+	}
+}
