@@ -67,13 +67,13 @@ body { font:normal normal 12px/1.2 helvetica, arial, san-serif; }
 #wrapper { width:99%; }
 #container { float:left; display:inline; }
 #righton { float:left; display:inline; }
-#search { display:block; }
+#search { display:block; clear:both; }
 
 ul, ol { margin:0 20px 20px 10px; float:left; display:inline; width:100px; }
 #addon ul { float:left; } 
 #addon h4 { font-size:11px; margin:10px 0 0 0; text-decoration:underline; }
 
-li.hdr { margin:0 0 0 -2px; padding:0 0 1px 0; text-transform:uppercase; line-height:.9; }
+li.hdr { margin:0 0 0 -2px; padding:0 0 1px 0; text-transform:uppercase; line-height:.9; color:#888; }
 li { font-size:13px; line-height:1.2; clear:both; float:none; display:block; }
 li.needs-more { clear:both; float:left; display:inline; margin-right:.4em; }
 li.more { clear:none; float:left; display:inline; margin-right:.4em; }

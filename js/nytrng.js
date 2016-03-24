@@ -1,5 +1,4 @@
 { "links" : {
-	"NYT": "",
 	"nytrng": "http://www.nytrng.com/nytrng/newspapers.htm",
 	"full": "http://nytco.com/company/business_units/additional_sites.html#regional_media_group",
 	"owa": "https://connect.nytco.com/",

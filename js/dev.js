@@ -79,6 +79,7 @@
 	"learn less": "http://www.developerdrive.com/2012/04/learning-less-an-introduction/",
 	"circle": "http://tympanus.net/Tutorials/CircleHoverEffects/index4.html",
 	"responsive patterns": "http://bradfrost.github.com/this-is-responsive/patterns.html",
+	"atmedia.info": "http://atmedia.info/",
 	
 	"Responsive": "",
 	"patterns": "http://designshack.net/articles/css/5-really-useful-responsive-web-design-patterns/",

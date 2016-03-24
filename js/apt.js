@@ -1,5 +1,4 @@
 { "links" : {
-	"APARTMENTS": "",
 	"ny craigslist": "http://newyork.craigslist.org/search/nfa/mnh?query=fios&srchType=A&minAsk=&maxAsk=&bedrooms=&nh=134&nh=137&nh=128",
 	"ny craig all": "http://newyork.craigslist.org/search/nfa/mnh?query=fios&srchType=A&minAsk=&maxAsk=&bedrooms=",
 	"PROP Jakobsen": "http://www.nofeerentals.com/apartments.asp",

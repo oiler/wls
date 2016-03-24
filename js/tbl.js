@@ -1,5 +1,4 @@
 { "links" : {
-	"TBL": "",
 	"live": "http://lightning.nhl.com/index.html",
 	"mobile": "http://lightning.nhl.com/club/m_home.htm",
 	"blogs": "http://blogs.lightning.nhl.com/",

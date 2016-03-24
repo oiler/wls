@@ -1,5 +1,4 @@
 {"links" : {
-	"MLB": "",
 	"mail": "https://bammail.mlb.com/owa/",
 	"homebase": "https://homebase.mlbcontrol.net/actions/login.do?target=%2F",
 	"edi": "https://mlb.e-dialog.com/",
