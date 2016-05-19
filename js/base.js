@@ -14,24 +14,29 @@
 				"http://somekindofninja.com/nhl/": "ninja",
 				"http://www.naturalstattrick.com/": "stat trick",
 				"http://hockeyanalysis.com/": "hockeyanalysis"
-
 			},
 			"baseball": {
+				"http://www.baseballprospectus.com/": "bp",
 				"http://mlb.mlb.com/": "mlb.com",
-				"http://ca.sports.yahoo.com/mlb/": "^yahoo",
+				"http://sports.yahoo.com/mlb/": "^yahoo",
 				"http://espn.go.com/mlb/scoreboard": "*scores",
 				"http://baseball.fantasysports.yahoo.com/b1": "^fantasy",
-				"http://baseball.fantasysports.yahoo.com/b1/36627/2": "*hcbl",
+				"http://baseball.fantasysports.yahoo.com/b1/36627/2": "**hcbl",
+				"http://m-abl.baseball.cbssports.com/": "^mabl",
+				"http://m-abl.baseball.cbssports.com/stats/stats-main": "**players",
+				"http://m-abl.baseball.cbssports.com/teams": "**roster",
+				"http://m-abl.baseball.cbssports.com/scoring/standard": "**live",
 				"http://games.espn.go.com/flb/leagueoffice?leagueId=242&teamId=4&seasonId=2016": "^espn",
 				"http://games.espn.go.com/flb/clubhouse?leagueId=242&teamId=4&seasonId=2016": "*live",
-				"http://www.baseballprospectus.com/": "bp",
-				"http://mlb.mlb.com/news/probable_pitchers/?tcid=nav_mlb_schedule": "SPs",
 				"http://www.mlb.com/mlb/fantasy/news/": "mlb fantasy",
 				"http://www.foxsports.com/mlb/just-a-bit-outside": "fox outside",
-				"http://mlbdepthcharts.com": "mlb depth",
+				"http://mlbdepthcharts.com": "depth charts",
 				"http://nbcsportsradio.com/": "nbc radio",
 				"http://www.rotoworld.com/playernews/mlb/baseball-player-news": "rotoworld",
 				"http://baseballsavant.com/index.php": "savant",
+				"http://espn.go.com/mlb/stats/fielding/_/position/c/sort/catcherStolenBasesAllowed/qualified/false/order/false": "catcherSBs",
+				"http://mlb.mlb.com/news/probable_pitchers/?tcid=nav_mlb_schedule": "SPs",
+				"http://www.covers.com/sports/mlb/matchups": "covers matchups",
 				"http://www.fangraphs.com/": "fangraphs"
 			},
 			"football": {
@@ -132,7 +137,7 @@
 				"http://www.opensecrets.org/index.php": "opensecrets"
 			},
 			"stream": {
-				"https://play.pocketcasts.com/": "pocketcasts",
+				"https://play.pocketcasts.com/web#/podcasts/new_releases": "pocketcasts",
 				"http://netflix.com/": "netflix",
 				"http://espn.go.com/watchespn/": "espn",
 				"http://pandora.com/": "pandora",
@@ -164,7 +169,8 @@
 				"http://charactercounttool.com/": "char count",
 				"http://jhy.io/tools/convert-word-to-plain-text": "word to text",
 				"http://appinventor.mit.edu/": "app inventor",
-				"http://javascript.crockford.com/": "d crockford"
+				"http://javascript.crockford.com/": "d crockford",
+				"https://medium.com/javascript-scene": "js scene"
 			},
 			"money": {
 				"https://www.suncoastcreditunion.com/": "ssfcu",
@@ -203,7 +209,8 @@
 				"https://www.bluehillfarm.com/reserve/new-york": "*ny",
 				"http://www.newyorkology.com/archives/calendar/index.php": "ny cal",
 				"http://www.movietickets.com/house_detail.asp?house_id=7333": "bpc regal",
-				"https://www.facebook.com/altnation/notes": "alt nation"
+				"https://www.stumptowncoffee.com/brew-guides/aeropress": "aeropress",
+				"http://blog.siriusxm.com/tag/alt-nation/": "alt nation"
 			},
 			"shop": {
 				"http://ebay.com/": "ebay",
