@@ -17,7 +17,8 @@
 			},
 			"baseball": {
 				"http://www.baseballprospectus.com/": "bp",
-				"http://mlb.mlb.com/": "mlb.com",
+				"http://mlb.mlb.com/": "^mlb.com",
+				"http://m.mlb.com/tv/": "*tv",
 				"http://sports.yahoo.com/mlb/": "^yahoo",
 				"http://espn.go.com/mlb/scoreboard": "*scores",
 				"http://baseball.fantasysports.yahoo.com/b1": "^fantasy",
