@@ -37,6 +37,7 @@
 				"http://baseballsavant.com/index.php": "savant",
 				"http://espn.go.com/mlb/stats/fielding/_/position/c/sort/catcherStolenBasesAllowed/qualified/false/order/false": "catcherSBs",
 				"http://mlb.mlb.com/news/probable_pitchers/?tcid=nav_mlb_schedule": "SPs",
+				"http://espn.go.com/mlb/stats/parkfactor": "park factor",
 				"http://www.covers.com/sports/mlb/matchups": "covers matchups",
 				"http://www.fangraphs.com/": "fangraphs"
 			},
@@ -229,6 +230,7 @@
 				"http://newyork.craigslist.org/search/sss?query=book+of+mormon&srchType=A&minAsk=&maxAsk=": "**cl"
 			},
 			"side": [
+				"bp",
 				"tnr",
 				"time",
 				"mlb",
