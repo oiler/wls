@@ -9,6 +9,8 @@
 	"rink blog": "http://www.nhl.com/ice/blog.htm?id=219",
 	"usa today": "http://sportsdirect.usatoday.com/matchups/nhl-matchups.aspx",
 	"MLB": "",
+	"pitcher gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=4,a",
+	"batter gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=6,a", 
 	"ump crews": "https://twitter.com/UmpCrew/with_replies",
 	"ump odds": "http://www.oddsshark.com/mlb/umpire-handicapping-statistics",
 	"ump main": "http://www.statfox.com/mlb/umpiremain.asp",
