@@ -1,4 +1,3 @@
-
 { "links" : {
 	"DEV": "",
 	"bitbucket": "https://bitbucket.org/bp-dev/",
@@ -7,8 +6,7 @@
 
 	"PRODUCT": "",
 	"sendgrid": "https://app.sendgrid.com/",
-	"todo": "https://docs.google.com/spreadsheets/d/1mvSdqWJogP-ladil3XPAaAaxAhw8tFEfLij9aNxCDZ0/edit?ts=5702ae34#gid=0",
-
+	"todo": "https://docs.google.com/spreadsheets/d/1mvSdqWJogP-ladil3XPAaAaxAhw8tFEfLij9aNxCDZ0/edit?ts=5702ae34#gid=0"
 	}
 }
 
