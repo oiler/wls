@@ -124,6 +124,7 @@
 				"http://getprismatic.com/newsfeed#": "prismatic",
 				"http://oiler.phpfogapp.com": "thinkup",
 				"http://hellofax.com": "hellofax",
+				"https://foxlab.harvestapp.com/invoices?tab=open": "harvest",
 				"http://www.trillian.im/chat": "trillian",
 				"https://dashboard.getpantheon.com/": "pantheon",
 				"https://trello.com/b/8nOiCipB/oiler": "trello",
