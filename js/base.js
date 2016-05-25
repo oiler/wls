@@ -244,7 +244,8 @@
 				"work",
 				"nyc",
 				"fantasy",
-				"matchup"
+				"matchup",
+				"wp"
 			]
 		}
 	]
