@@ -11,7 +11,7 @@
 	"internal api": "https://wp-cli.org/docs/internal-api/",
 	"commands": "http://wp-cli.org/docs/commands-cookbook/",
 	"tools": "http://wp-cli.org/docs/tools/",
-	"packages": "http://wp-cli.org/package-index/",
+	"packages": "http://wp-cli.org/package-index/"
 	}
 }
 
