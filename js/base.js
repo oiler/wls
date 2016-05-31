@@ -95,6 +95,7 @@
 	    		"https://www.google.com/dashboard/b/0/?hl=en-US&pli=1": "dash"
 	    	},
 	    	"digital": {
+	    		"https://app.groupme.com/chats": "groupme",
 	    		"https://digg.com/reader/folder/New%20Feeds": "reader",
 	    		"http://cloud.feedly.com/#category%2FNew%20Feeds": "feedly",
 				"https://www.twitter.com/": "twitter",
