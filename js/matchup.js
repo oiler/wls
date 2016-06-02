@@ -17,7 +17,7 @@
 	"book spy": "http://pregame.com/sportsbook_spy/default.aspx",
 
 	"NHL": "",
-	"game odds": "http://www.donbest.com/nhl/odds/",
+	"nhl odds": "http://www.donbest.com/nhl/odds/",
 	"yahoo": "http://sports.yahoo.com/nhl/scoreboard",
 	"schedule": "http://forecaster.canada.com/faceoff/hockey/schedule.cgi",
 	"tott": "http://forecaster.canada.com/faceoff/hockey/tott.cgi?TB",
@@ -28,7 +28,7 @@
 	"usa today": "http://sportsdirect.usatoday.com/matchups/nhl-matchups.aspx",
 
 	"MLB": "",
-	"game odds": "http://www.donbest.com/mlb/odds/",
+	"mlb odds": "http://www.donbest.com/mlb/odds/",
 	"ump main": "http://www.statfox.com/mlb/umpiremain.asp",
 	"ump odds": "http://www.oddsshark.com/mlb/umpire-handicapping-statistics",
 	"covers umps": "http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/umpires/umpires.html",
