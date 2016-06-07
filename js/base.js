@@ -175,6 +175,7 @@
 				"http://jhy.io/tools/convert-word-to-plain-text": "word to text",
 				"http://appinventor.mit.edu/": "app inventor",
 				"http://javascript.crockford.com/": "d crockford",
+				"https://github.com/jshomes/learning-resources": "jshomes resources",
 				"https://kangax.github.io/compat-table/es6/": "es6 compat",
 				"https://medium.com/javascript-scene": "js scene"
 			},
