@@ -22,6 +22,8 @@
 	"ump odds": "http://www.oddsshark.com/mlb/umpire-handicapping-statistics",
 	"covers umps": "http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/mlb/umpires/umpires.html",
 	"ump crews": "https://twitter.com/UmpCrew/with_replies",
+	"pitcher bb%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=8,a",
+	"pitcher sws%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=5&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=11,d",
 	"pitcher gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=4,a",
 	"batter gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=6,a", 
 	"bullpen": "http://www.baseballpress.com/bullpenusage",

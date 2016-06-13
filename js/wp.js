@@ -7,6 +7,9 @@
 	"field manager docs": "http://fieldmanager.org/docs/",
 	"field manager api": "http://api.fieldmanager.org/",
 
+	"repos": "",
+	"jaquith skeleton": "https://github.com/markjaquith/WordPress-Skeleton",
+
 	"WP CLI": "",
 	"internal api": "https://wp-cli.org/docs/internal-api/",
 	"commands": "http://wp-cli.org/docs/commands-cookbook/",

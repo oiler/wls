@@ -177,6 +177,7 @@
 				"http://javascript.crockford.com/": "d crockford",
 				"https://github.com/jshomes/learning-resources": "jshomes resources",
 				"https://kangax.github.io/compat-table/es6/": "es6 compat",
+				"https://blog.jacius.info/git-submodule-cheat-sheet/": "git modules",
 				"https://medium.com/javascript-scene": "js scene"
 			},
 			"money": {
