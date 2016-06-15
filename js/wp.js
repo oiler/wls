@@ -1,6 +1,7 @@
 { "links" : {
 	"DEV": "",
-	"wpdb": "https://codex.wordpress.org/Class_Reference/wpdb#Show_and_Hide_SQL_Errors",
+	"wpdb old": "https://codex.wordpress.org/Class_Reference/wpdb",
+	"wpdb new": "https://developer.wordpress.org/reference/classes/wpdb/",
 	"mysqli": "http://php.net/manual/en/function.mysqli-connect.php",
 
 	"Field Manager": "",
