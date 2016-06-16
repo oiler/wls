@@ -97,6 +97,7 @@
 	    	},
 	    	"digital": {
 	    		"https://app.groupme.com/chats": "groupme",
+				"https://github.com/oiler?tab=repositories": "github",
 	    		"https://digg.com/reader/folder/New%20Feeds": "reader",
 	    		"http://cloud.feedly.com/#category%2FNew%20Feeds": "feedly",
 				"https://www.twitter.com/": "twitter",
@@ -116,7 +117,6 @@
 				"https://wwws.mint.com/overview.event": "mint",
 				"http://bit.ly/": "bit.ly",
 				"http://dropbox.com": "dropbox",
-				"https://github.com/oiler?tab=repositories": "github",
 				"https://foursquare.com/": "foursquare",
 				"http://www.reddit.com/r/all/": "reddit",
 				"http://oiler2.wordpress.com/wp-admin/": "wp",
@@ -189,7 +189,7 @@
 				"http://verizon.com/myverizon": "verizon"
 			},
 			"other": {
-				"http://www.chelseapiers.com/sr/adult-hockey/schedules-standings.cfm": "chelseapiers",
+				"https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=division.home&division_id=2088": "chelseapiers",
 				"https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=team.home&team_id=16400": "icedogs",
 				"https://venues.chelseapiers.com/sportmgr/index.cfm?fuseaction=team.home&team_id=16420": "lg",
 				"http://www.chelseapiers.com/sc/club/index.cfm": "club",
