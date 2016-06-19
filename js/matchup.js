@@ -30,6 +30,7 @@
 	"bullpen": "http://www.baseballpress.com/bullpenusage",
 	"bullpen lookback": "http://dailybaseballdata.com/cgi-bin/bullpen.pl?lookback=2",
 	"bullpen era": "http://espn.go.com/mlb/stats/team/_/stat/pitching/split/128",
+	"defense": "http://www.baseballprospectus.com/sortable/index.php?cid=1926159",
 	"weather info": "http://dailybaseballdata.com/cgi-bin/weather.pl",
 	"bet trends": "https://www.sportsinsights.com/betting-trends/mlb-betting-trends/",
 
