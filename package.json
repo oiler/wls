@@ -1,0 +1,24 @@
+{
+  "name": "wls",
+  "version": "2.0.0",
+  "description": "my links",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oiler/wls.git"
+  },
+  "author": "oiler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oiler/wls/issues"
+  },
+  "homepage": "https://github.com/oiler/wls#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
