@@ -13,7 +13,10 @@
 
 	"de.wp": "",
 	"plugins": "https://developer.wordpress.org/plugins/wordpress-org/plugin-assets/",
-	"child": "https://developer.wordpress.org/themes/advanced-topics/child-themes/".
+	"child": "https://developer.wordpress.org/themes/advanced-topics/child-themes/",
+
+	"php": "",
+	"phpdoc": "https://manual.phpdoc.org/HTMLSmartyConverter/HandS/phpDocumentor/tutorial_phpDocumentor.pkg.html",
 
 	"WP CLI": "",
 	"internal api": "https://wp-cli.org/docs/internal-api/",
