@@ -10,7 +10,7 @@
 	"service plays": "http://forum.sbrforum.com/service-plays/",
 	"rx service": "http://www.therxforum.com/forumdisplay.php?f=216",
 	"a1": "http://a1serviceplays.com/forums/service-plays/",
-	"wagerminds": "vwww.wagerminds.com",
+	"wagerminds": "http://www.wagerminds.com",
 	"database": "http://sportsdatabase.com/",
 	"insights": "http://www.sportsinsights.com/blog/",
 	"betlabs": "http://www.sportsinsights.com/betlabs/dashboard.aspx",
@@ -50,6 +50,8 @@
 	"team fb%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=bat&lg=all&qual=0&type=2&season=2016&month=0&season1=2016&ind=0&team=0,ts&rost=0&age=0&filter=&players=0&sort=6,d",
 
 	"FG": "",
+	"era-mi": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=14,a&page=1_50",
+	"era-mi l30": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2016&month=3&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=14,a&page=1_50",
 	"pitcher bb%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=1&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=8,a&page=1_50",
 	"pitcher sws%": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=5&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=11,d&page=1_50",
 	"pitcher gbfb": "http://www.fangraphs.com/leaders.aspx?pos=all&stats=pit&lg=all&qual=y&type=2&season=2016&month=0&season1=2016&ind=0&team=0&rost=0&age=0&filter=&players=0&sort=4,d&page=1_50",
