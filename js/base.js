@@ -129,7 +129,7 @@
 				"https://foxlab.harvestapp.com/invoices?tab=open": "harvest",
 				"http://www.trillian.im/chat": "trillian",
 				"https://dashboard.getpantheon.com/": "pantheon",
-				"https://trello.com/b/8nOiCipB/oiler": "trello",
+				"https://trello.com/b/liWFfixx/oiler-fresh": "trello",
 				"https://www.google.com/search?q=my+ip": "my ip"
 			},
 			"news": {

@@ -6,8 +6,14 @@
     "polyfills": "https://github.com/addyosmani/es6-tools#polyfills",
     "babel repl": "https://babeljs.io/repl/",
 
+    "REGEX": "",
+    "regulex": "https://jex.im/regulex",
+
 	"OTHER": "",
 	"oiler/babel": "https://github.com/oiler/babel"
+
+    "EXPLAINERS": "",
+    "this": "http://rainsoft.io/gentle-explanation-of-this-in-javascript",
 	}
 }
 

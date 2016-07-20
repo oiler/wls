@@ -17,6 +17,7 @@
 
 	"php": "",
 	"phpdoc": "https://manual.phpdoc.org/HTMLSmartyConverter/HandS/phpDocumentor/tutorial_phpDocumentor.pkg.html",
+	"truthiness": "https://www.virendrachandak.com/techtalk/php-isset-vs-empty-vs-is_null/",
 
 	"WP CLI": "",
 	"internal api": "https://wp-cli.org/docs/internal-api/",
