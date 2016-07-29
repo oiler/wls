@@ -39,7 +39,8 @@
 				"http://mlb.mlb.com/news/probable_pitchers/?tcid=nav_mlb_schedule": "SPs",
 				"http://espn.go.com/mlb/stats/parkfactor": "park factor",
 				"http://www.covers.com/sports/mlb/matchups": "covers matchups",
-				"http://www.fangraphs.com/": "fangraphs"
+				"http://www.fangraphs.com/": "fangraphs",
+				"https://ballsandstrikes.co/": "ballsandstrikes"
 			},
 			"football": {
 				"http://www.nfl.com/news/around-the-league": "nfl greg",
