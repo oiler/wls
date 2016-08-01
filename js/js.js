@@ -7,6 +7,7 @@
     "postMessage": "https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage",
 
     "ES6": "",
+    "es6 modules": "https://www.youtube.com/watch?v=qi_rLTcXers",
     "es6-cheatsheet": "https://github.com/DrkSephy/es6-cheatsheet",
     "es6-compatibility": "https://kangax.github.io/compat-table/es6/",
     "args and params": "https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/?utm_source=javascriptweekly&utm_medium=email",

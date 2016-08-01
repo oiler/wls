@@ -19,6 +19,7 @@
 				"http://www.baseballprospectus.com/": "bp",
 				"http://mlb.mlb.com/": "^mlb.com",
 				"http://m.mlb.com/tv/": "*tv",
+				"http://m.mlb.com/network/live?mso_id=Verizon": "*net",
 				"http://sports.yahoo.com/mlb/": "^yahoo",
 				"http://espn.go.com/mlb/scoreboard": "*scores",
 				"http://baseball.fantasysports.yahoo.com/b1": "^fantasy",
@@ -179,6 +180,7 @@
 				"https://github.com/jshomes/learning-resources": "jshomes resources",
 				"https://kangax.github.io/compat-table/es6/": "es6 compat",
 				"https://blog.jacius.info/git-submodule-cheat-sheet/": "git modules",
+				"http://tmpvar.com/markdown.html": "git markdown preview",
 				"https://medium.com/javascript-scene": "js scene"
 			},
 			"money": {
