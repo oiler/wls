@@ -102,6 +102,7 @@
 				"https://github.com/oiler?tab=repositories": "github",
 	    		"https://digg.com/reader/folder/New%20Feeds": "reader",
 	    		"http://cloud.feedly.com/#category%2FNew%20Feeds": "feedly",
+				"https://twitter.com/search-advanced?lang=en": "tw adv search",
 				"https://www.twitter.com/": "twitter",
 				"https://twitter.com/#!/oiler/lists": "^lists",
 				"https://twitter.com/#!/oiler/cfb": "**cfb list",

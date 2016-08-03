@@ -5,12 +5,16 @@
     "babel repl": "https://babeljs.io/repl/",
     "task runners": "https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/",
     "postMessage": "https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage",
+    "args and params": "https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/?utm_source=javascriptweekly&utm_medium=email",
+    "youmightnotneedjquery": "http://youmightnotneedjquery.com/",
+
+    "Node": "",
+    "sander fs lib": "https://www.npmjs.com/package/sander",
 
     "ES6": "",
     "es6 modules": "https://www.youtube.com/watch?v=qi_rLTcXers",
     "es6-cheatsheet": "https://github.com/DrkSephy/es6-cheatsheet",
     "es6-compatibility": "https://kangax.github.io/compat-table/es6/",
-    "args and params": "https://www.smashingmagazine.com/2016/07/how-to-use-arguments-and-parameters-in-ecmascript-6/?utm_source=javascriptweekly&utm_medium=email",
 
     "REGEX": "",
     "regulex": "https://jex.im/regulex",
