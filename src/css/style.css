@@ -70,8 +70,8 @@ body { font:normal normal 12px/1.2 helvetica, arial, san-serif; }
 #search { display:block; clear:both; }
 
 ul, ol { margin:0 20px 20px 10px; float:left; display:inline; width:100px; }
-#addon ul { float:left; } 
-#addon h3 { font-size:11px; margin:10px 0 0 0; text-decoration:underline; }
+#side ul { float:left; } 
+#side h3 { font-size:11px; margin:10px 0 0 0; text-decoration:underline; }
 
 h2 { font-size:13px; font-weight:normal; margin:0 0 0 -2px; padding:0 0 1px 0; text-transform:uppercase; line-height:.9; color:#888; }
 li { font-size:13px; line-height:1.2; clear:both; float:none; display:block; }
