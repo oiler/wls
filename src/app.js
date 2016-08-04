@@ -30,10 +30,17 @@ function parseComponent(params) {
 }
 
 function initWLS() {
+    // add base components as determined by config order
     Object.keys(wlsOrder).forEach(function(key) {
-        parseComponent(args = {fileName: wlsOrder[key]});
+        parseComponent(args = {
+            fileName: wlsOrder[key]
+        });
     });
-    parseComponent(args = {fileName: wlsSide, parent: 'side'});
+    // add sidebar component
+    parseComponent(args = {
+        fileName: wlsSide,
+        parent: 'side'
+    });
 }
 
 initWLS();
