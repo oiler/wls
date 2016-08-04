@@ -4,7 +4,8 @@ function cl(i) {
 }
 
 import {config} from './js/config';
-import {getJSONfrom, insertHTMLfrom} from './js/buildFromJSON';
+import {insertHTML} from './js/insertHTML';
+import {getJSON} from './js/getJSON';
 
 let html = '',
     json,
@@ -14,24 +15,25 @@ let html = '',
     wlsSide = config.wlsSide;
     ;
 
-function loopThroughWLSorder() {
-    Object.keys(wlsOrder).forEach(function(key) {
-        init(args = {fileName: wlsOrder[key]});
-    });
-}loopThroughWLSorder();
-
-function doSide() {
-    init(args = {fileName: wlsSide, parent: 'side'});
-}doSide();
-
-function init(params) {
+function parseComponent(params) {
     let fileName = params.fileName;
     let parent = (params.parent) ? params.parent : 'content';
     let file = config.data.baseDir + fileName + config.data.fileExt;
     let args;
-    getJSONfrom(args = {fileName, file, callback: insertHTMLfrom, parent, config});
+    getJSON(args = {
+        fileName, 
+        file, 
+        callback: insertHTML, 
+        parent, 
+        config
+    });
 }
 
-// init( args = {
-//     fileName: 'js'
-// });
+function initWLS() {
+    Object.keys(wlsOrder).forEach(function(key) {
+        parseComponent(args = {fileName: wlsOrder[key]});
+    });
+    parseComponent(args = {fileName: wlsSide, parent: 'side'});
+}
+
+initWLS();
