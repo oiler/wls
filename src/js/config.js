@@ -7,6 +7,10 @@ export let config = {
         header: {
             prefix: '<h2>',
             suffix: '</h2>'
+        },
+        subhed: {
+            prefix: '<h3>',
+            suffix: '</h3>'
         }
     },
     wlsOrder: [
