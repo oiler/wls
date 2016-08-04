@@ -31,11 +31,12 @@ function parseComponent(params) {
 
 function initWLS() {
     // add base components as determined by config order
-    Object.keys(wlsOrder).forEach(function(key) {
+    Object.keys(wlsOrder).forEach(function(key, index) {
         parseComponent(args = {
             fileName: wlsOrder[key]
         });
     });
+    // setMasonry();
     // add sidebar component
     parseComponent(args = {
         fileName: wlsSide,
@@ -43,4 +44,17 @@ function initWLS() {
     });
 }
 
+function setMasonry() {
+    var elem = document.querySelector('#content');
+    var msnry = new Masonry( elem, {
+      itemSelector: 'ul'
+    });
+}
+
 initWLS();
+
+/* todo
+set side toggle
+is no masonry ok
+start css
+*/
