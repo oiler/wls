@@ -27,7 +27,7 @@ function doSide() {
 function init(params) {
     let fileName = params.fileName;
     let parent = (params.parent) ? params.parent : 'content';
-    let file = 'http://repo/wls/src/data/' + fileName + '.js';
+    let file = 'http://repo/wls/src/data/' + fileName + '.json';
     let args;
     getJSONfrom(args = {fileName, file, callback: insertHTMLfrom, parent, config});
 }
