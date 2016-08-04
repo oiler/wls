@@ -22,5 +22,9 @@ export let config = {
         'other',
         'shop'
     ],
-    wlsSide: 'bp'
+    wlsSide: 'bp',
+    data: {
+        baseDir: 'http://repo/wls/src/data/',
+        fileExt: '.json'
+    } 
 };
