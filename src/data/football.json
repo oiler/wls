@@ -1,0 +1,25 @@
+{ 
+    "links" : {
+        "http://www.nfl.com/news/around-the-league": "nfl greg",
+        "http://deadspin.com/": "deadspin",
+        "https://gamerewind.nfl.com/nflgr/secure/schedule": "rewind",
+        "http://ca.sports.yahoo.com/nfl/": "^yahoo",
+        "http://ca.sports.yahoo.com/nfl/scoreboard": "*scores",
+        "http://football.fantasysports.yahoo.com/": "fantasy",
+        "http://games.espn.go.com/ffl/clubhouse?leagueId=1381405&teamId=14&seasonId=2015": "espn",
+        "http://www.footballoutsiders.com/": "fo",
+        "http://www.footballoutsiders.com/stats/snapcounts": "^snaps",
+        "http://www.grantland.com/": "grantland",
+        "http://profootballtalk.nbcsports.com/": "pft",
+        "http://www.profootballweekly.com/": "pfweek",
+        "http://smartfootball.com/": "smart",
+        "http://www.borischen.co/": "borischen",
+        "http://games.espn.go.com/ffl/pointsagainst": "espn ffpa",
+        "http://subscribers.footballguys.com/apps/news.php": "fguys",
+        "http://forums.footballguys.com/forum/index.php?s=2bc00ce9facf1f0a805aa565ead01549&showtopic=713437": "^idp",
+        "http://sportsfrog.net": "sportsfrog",
+        "http://sports.yahoo.com/college-football/": "^yahoo",
+        "http://espn.go.com/college-football/scoreboard/_/group/80/": "*scores",
+        "http://football.fantasysports.yahoo.com/college/7067/6": "fantasy"
+    }
+}

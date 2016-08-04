@@ -1,0 +1,33 @@
+{ 
+    "links" : {
+        "https://www.google.com/about/careers/students/guide-to-technical-development.html": "tech dev",
+        "https://gmail.google.com/": "^gmail",
+        "https://mail.google.com/mail/u/0/h/": "*html email",
+        "http://m.gmail.com/": "*mobile email",
+        "https://google.com/": "search", 
+        "https://plus.google.com/": "google +",
+        "https://plus.google.com/photos/yourphotos": "photos",
+        "http://www.google.com/reader/": "reader",
+        "https://www.google.com/voice/": "voice",
+        "http://www.google.com/calendar/": "calendar",
+        "http://drive.google.com/": "docs",
+        "http://maps.google.com/": "maps",
+        "https://www.google.com/analytics/web/?hl=en": "^analytics",
+        "https://analytics.google.com/analytics/web/?hl=en#report/defaultid/a439245w47564276p47906572/": "*j",
+        "https://www.google.com/admanager/": "ad manager",
+        "https://www.google.com/adxseller/adx/app#home": "adx",
+        "http://youtube.com/": "youtube",
+        "http://translate.google.com/": "translate",
+        "https://domains.google.com": "domains",
+        "https://developers.google.com/speed/pagespeed/insights/": "dev insights",
+        "https://www.google.com/edu/tools-and-solutions/guide-for-technical-development/": "education",
+        "https://developers.google.com/speed/pagespeed/insights/": "page speed",
+        "https://www.google.com/webmasters/tools/home?hl=en": "web tools",
+        "https://developers.google.com/webmasters/structured-data/customize/social-profiles": "social profiles",
+        "https://developers.google.com/webmasters/structured-data/testing-tool/": "data testing",
+        "https://partnerdash.google.com/partnerdash/d/news": "news dash",
+        "https://accounts.google.com/IssuedAuthSubTokens": "two factor",
+        "https://admin.google.com/AdminHome": "apps dash",
+        "https://www.google.com/dashboard/b/0/?hl=en-US&pli=1": "dash"
+    }
+}

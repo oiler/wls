@@ -1,0 +1,17 @@
+{ 
+    "links" : {
+        "http://nhl.com": "^nhl.com",
+        "http://www.nhl.com/ice/scores.htm": "**scores",
+        "http://hockey.fantasysports.yahoo.com/hockey/60024/1": "fantasy",
+        "http://www.sportsnet.ca/hockey/nhl/nhl-line-combo-central-2013-14/": "line combos",
+        "http://tsn.ca/nhl": "tsn.ca",
+        "http://www.nhl.com/startinggoalies/": "starting goal",
+        "http://www.nicetimeonice.com/": "toi",
+        "http://war-on-ice.com/gametable.html": "war on ice",
+        "http://hockeystats.ca/": "hockeystats",
+        "http://www.sportingcharts.com/": "sporting charts",
+        "http://somekindofninja.com/nhl/": "ninja",
+        "http://www.naturalstattrick.com/": "stat trick",
+        "http://hockeyanalysis.com/": "hockeyanalysis"
+    }
+}
