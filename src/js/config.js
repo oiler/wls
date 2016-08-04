@@ -10,11 +10,17 @@ export let config = {
         }
     },
     wlsOrder: [
+        'hockey',
         'baseball',
         'football',
-        'hockey',
         'google',
-        'digital'
+        'digital',
+        'news',
+        'stream',
+        'dev',
+        'money',
+        'other',
+        'shop'
     ],
     wlsSide: 'bp'
 };
