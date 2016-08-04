@@ -11,8 +11,22 @@ function buildHTMLfrom(params) {
     if (data.links) {
         output += hdrPre + fileName + hdrSuf;
         Object.keys(data.links).forEach(function(key) {
-            output += pre + '<a href="' + data.links[key] + '">' + key + '</a>' + suf;
-            output += '\n';
+            if (typeof data.links[key] === 'string') {
+                output += pre + '<a href="' + data.links[key] + '">' + key + '</a>' + suf;
+                output += '\n';
+            }
+            if (typeof data.links[key] === 'object') {
+                output += pre;
+                Object.keys(data.links[key]).forEach(function(item, index, array) {
+                    if (index === 0) {
+                        output += '<a href="' + data.links[key][item] + '">' + item + '</a>';
+                    } else {
+                        output += ' - <a href="' + data.links[key][item] + '">' + item.substring(0, 1) + '</a>';
+                    }
+                });
+                output += '\n';
+                output += suf;
+            }
         });
         return output;
     // } else {

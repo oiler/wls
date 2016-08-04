@@ -1,30 +1,40 @@
 { 
     "links" : {
-        "http://www.baseballprospectus.com/": "bp",
-        "http://mlb.mlb.com/": "^mlb.com",
-        "http://m.mlb.com/tv/": "*tv",
-        "http://m.mlb.com/network/live?mso_id=Verizon": "*net",
-        "http://sports.yahoo.com/mlb/": "^yahoo",
-        "http://espn.go.com/mlb/scoreboard": "*scores",
-        "http://baseball.fantasysports.yahoo.com/b1": "^fantasy",
-        "http://baseball.fantasysports.yahoo.com/b1/36627/2": "**hcbl",
-        "http://m-abl.baseball.cbssports.com/": "^mabl",
-        "http://m-abl.baseball.cbssports.com/stats/stats-main": "**players",
-        "http://m-abl.baseball.cbssports.com/teams": "**roster",
-        "http://m-abl.baseball.cbssports.com/scoring/standard": "**live",
-        "http://games.espn.go.com/flb/leagueoffice?leagueId=242&teamId=4&seasonId=2016": "^espn",
-        "http://games.espn.go.com/flb/clubhouse?leagueId=242&teamId=4&seasonId=2016": "*live",
-        "http://www.mlb.com/mlb/fantasy/news/": "mlb fantasy",
-        "http://www.foxsports.com/mlb/just-a-bit-outside": "fox outside",
-        "http://mlbdepthcharts.com": "depth charts",
-        "http://nbcsportsradio.com/": "nbc radio",
-        "http://www.rotoworld.com/playernews/mlb/baseball-player-news": "rotoworld",
-        "http://baseballsavant.com/index.php": "savant",
-        "http://espn.go.com/mlb/stats/fielding/_/position/c/sort/catcherStolenBasesAllowed/qualified/false/order/false": "catcherSBs",
-        "http://mlb.mlb.com/news/probable_pitchers/?tcid=nav_mlb_schedule": "SPs",
-        "http://espn.go.com/mlb/stats/parkfactor": "park factor",
-        "http://www.covers.com/sports/mlb/matchups": "covers matchups",
-        "http://www.fangraphs.com/": "fangraphs",
-        "https://ballsandstrikes.co/": "ballsandstrikes"
+        "bp": "http://www.baseballprospectus.com/",
+        "mlb.com": {
+            "mlb.com": "http://mlb.mlb.com/",
+            "tv": "http://m.mlb.com/tv/",
+            "net": "http://m.mlb.com/network/live?mso_id=Verizon"
+        },
+        "yahoo": {
+            "yahoo": "http://sports.yahoo.com/mlb/",
+            "scores": "http://espn.go.com/mlb/scoreboard"
+        },
+        "fantasy": {
+            "fantasy": "http://baseball.fantasysports.yahoo.com/b1",
+            "hcbl": "http://baseball.fantasysports.yahoo.com/b1/36627/2"
+        },
+        "mabl": {
+            "mabl": "http://m-abl.baseball.cbssports.com/",
+            "players": "http://m-abl.baseball.cbssports.com/stats/stats-main",
+            "roster": "http://m-abl.baseball.cbssports.com/teams",
+            "live": "http://m-abl.baseball.cbssports.com/scoring/standard"
+        },
+        "espn": {
+            "espn": "http://games.espn.go.com/flb/leagueoffice?leagueId=242&teamId=4&seasonId=2016",
+            "live": "http://games.espn.go.com/flb/clubhouse?leagueId=242&teamId=4&seasonId=2016"
+        },
+        "mlb fantasy": "http://www.mlb.com/mlb/fantasy/news/",
+        "fox outside": "http://www.foxsports.com/mlb/just-a-bit-outside",
+        "depth charts": "http://mlbdepthcharts.com",
+        "nbc radio": "http://nbcsportsradio.com/",
+        "rotoworld": "http://www.rotoworld.com/playernews/mlb/baseball-player-news",
+        "savant": "http://baseballsavant.com/index.php",
+        "catcherSBs": "http://espn.go.com/mlb/stats/fielding/_/position/c/sort/catcherStolenBasesAllowed/qualified/false/order/false",
+        "SPs": "http://mlb.mlb.com/news/probable_pitchers/?tcid=nav_mlb_schedule",
+        "park factor": "http://espn.go.com/mlb/stats/parkfactor",
+        "covers matchups": "http://www.covers.com/sports/mlb/matchups",
+        "fangraphs": "http://www.fangraphs.com/",
+        "ballsandstrikes": "https://ballsandstrikes.co/"
     }
 }
