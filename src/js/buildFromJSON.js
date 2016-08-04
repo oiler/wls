@@ -1,11 +1,15 @@
 function buildHTMLfrom(params) {
     let data = params.json,
         config = params.config,
+        fileName = params.fileName,
         args,
         output = '';
-    const pre = config.html.output.prefix,
+    const hdrPre = config.html.header.prefix,
+          hdrSuf = config.html.header.suffix, 
+          pre = config.html.output.prefix,
           suf = config.html.output.suffix;
     if (data.links) {
+        output += hdrPre + fileName + hdrSuf;
         Object.keys(data.links).forEach(function(key) {
             output += pre + '<a href="' + data.links[key] + '">' + key + '</a>' + suf;
             output += '\n';
@@ -24,7 +28,7 @@ export function insertHTMLfrom(params) {
             config = params.config,
             element,
             parent = document.getElementById(params.parent),
-            html = buildHTMLfrom(args = {json, config}),
+            html = buildHTMLfrom(args = {json, config, fileName}),
             child = document.createElement('ul');
         child.id = fileName;
         parent.appendChild(child);

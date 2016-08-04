@@ -4,11 +4,17 @@ export let config = {
             prefix: '<li>',
             suffix: '</li>'
         },
+        header: {
+            prefix: '<h2>',
+            suffix: '</h2>'
+        }
     },
     wlsOrder: [
-        'js',
-        'wp',
-        'matchup'
+        'baseball',
+        'football',
+        'hockey',
+        'google',
+        'digital'
     ],
     wlsSide: 'bp'
 };
