@@ -22,9 +22,7 @@ export let config = {
         'news',
         'stream',
         'dev',
-        'money',
-        'other',
-        'shop'
+        'other'
     ],
     wlsSide: 'bp',
     data: {

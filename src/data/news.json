@@ -1,11 +1,13 @@
 { 
     "links" : {
-        "http://nytimes.com/": "nytimes",
-        "http://www.wnyc.org/": "wnyc",
-        "http://www.npr.org/": "npr",
-        "http://propublica.org": "propublica",
-        "http://twit.tv/": "^twit", 
-        "http://live.twit.tv/": "*live",
-        "http://www.opensecrets.org/index.php": "opensecrets"
+        "nytimes": "http://nytimes.com/",
+        "wnyc": "http://www.wnyc.org/",
+        "npr": "http://www.npr.org/",
+        "propublica": "http://propublica.org",
+        "twit": {
+            "twit": "http://twit.tv/",
+            "live": "http://live.twit.tv/"
+        },
+        "opensecrets": "http://www.opensecrets.org/index.php"
     }
 }
