@@ -36,7 +36,7 @@ export let config = {
          ]
     },
     data: {
-        baseDir: 'http://repo/wls/src/data/',
+        baseDir: 'http://wls.publicsport.net/',
         fileExt: '.json'
     } 
 };
