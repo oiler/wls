@@ -80,7 +80,8 @@ li.more { clear:none; float:left; display:inline; margin-right:.4em; }
 
 @media only screen and (min-width : 481px) {
 	body { margin:20px; }
-	#content { width:75%; }
+	#content { width:85%; }
+    #theside { width:14%; }
 }
 
 /* MOBILE */
