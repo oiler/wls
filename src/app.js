@@ -3,16 +3,16 @@ function cl(i) {
     return console.log(i);
 }
 
-import {config} from './js/config';
+import {config}     from './js/config';
 import {insertHTML} from './js/insertHTML';
-import {getJSON} from './js/getJSON';
+import {getJSON}    from './js/getJSON';
 
 let html = '',
     json,
     args,
     isError = false,
     wlsOrder = config.wlsOrder,
-    wlsSide = config.wlsSide;
+    wlsSide = config.wlsSide.default;
     ;
 
 function parseComponent(params) {
@@ -38,16 +38,26 @@ function initWLS() {
     });
     // setMasonry();
     // add sidebar component
+    buildWLSside();
     parseComponent(args = {
         fileName: wlsSide,
-        parent: 'side'
+        parent: 'theside'
     });
 }
 
-function setMasonry() {
-    var elem = document.querySelector('#content');
-    var msnry = new Masonry( elem, {
-      itemSelector: 'ul'
+// function setMasonry() {
+//     var elem = document.querySelector('#content');
+//     var msnry = new Masonry( elem, {
+//       itemSelector: 'ul'
+//     });
+// }
+
+function buildWLSside() {
+    let options = {};
+    options = config.wlsSide;
+    //console.log(data);
+    insertHTML(args = {
+        options, config
     });
 }
 

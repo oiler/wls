@@ -4,7 +4,8 @@ export function getJSON(params) {
     fetch(params.file).then(function(response) { 
         return response.json();
     }).then(function(json) {
-        params.json = json;
-        callback(args = params);
+        args = params;
+        args.json = json;
+        callback(args);
     });
 }

@@ -19,12 +19,21 @@ export let config = {
         'football',
         'google',
         'digital',
-        'news',
         'stream',
-        'dev',
         'other'
     ],
-    wlsSide: 'bp',
+    wlsSide: {
+        default: 'bp',
+        options: [
+            'bp',
+            'tnr',
+            'dev2',
+            'js',
+            'wp',
+            'mlb',
+            'matchup'
+         ]
+    },
     data: {
         baseDir: 'http://repo/wls/src/data/',
         fileExt: '.json'

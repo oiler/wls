@@ -1,18 +1,31 @@
 export function buildHTML(params) {
+
     let data = params.json,
         config = params.config,
         fileName = params.fileName,
         args,
         output = '';
+
     const hdrPre = config.html.header.prefix,
           hdrSuf = config.html.header.suffix,
           subHdrPre = config.html.subhed.prefix,
           subHdrSuf = config.html.subhed.suffix,
           pre = config.html.output.prefix,
           suf = config.html.output.suffix;
+
+    // component header
+    output += hdrPre + fileName + hdrSuf;
+
+    if (data.options) {
+        console.log(data.options);
+        Object.keys(data.options).forEach(function(key, index) {
+            output += pre + '<a class="pizza" href="#">' + data.options[key] + '</a>' + suf;
+            output += '\n';
+        });
+        return output;
+    }
+
     if (data.links) {
-        // component header
-        output += hdrPre + fileName + hdrSuf;
         Object.keys(data.links).forEach(function(key) {
             if (typeof data.links[key] === 'string') {
                 if (data.links[key] === '') {
@@ -39,7 +52,9 @@ export function buildHTML(params) {
                 output += suf;
             }
         });
+
         return output;
+
     // } else {
     //     logError('data is empty');
     }
