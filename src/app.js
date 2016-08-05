@@ -1,8 +1,3 @@
-// initialize
-function cl(i) {
-    return console.log(i);
-}
-
 import {config}     from './js/config';
 import {insertHTML} from './js/insertHTML';
 import {getJSON}    from './js/getJSON';
@@ -11,8 +6,7 @@ let html = '',
     json,
     args,
     isError = false,
-    wlsOrder = config.wlsOrder,
-    wlsSide = config.wlsSide.default;
+    wlsOrder = config.wlsOrder
     ;
 
 function parseComponent(params) {
@@ -31,18 +25,28 @@ function parseComponent(params) {
 
 function initWLS() {
     // add base components as determined by config order
-    Object.keys(wlsOrder).forEach(function(key, index) {
-        parseComponent(args = {
-            fileName: wlsOrder[key]
-        });
+    Object.keys(wlsOrder).forEach(function(key, index, array) {
+        // order is important so we create our dom elements here to preserve order
+        let parent = document.getElementById('content'),
+            child = document.createElement('ul');
+        child.id = wlsOrder[key];
+        parent.appendChild(child);
+        if (wlsOrder[key] !== 'side') {
+            parseComponent(args = { fileName: wlsOrder[key] });
+        } else {
+            let parent = document.getElementById('theside'),
+                child = document.createElement('ul');
+            child.id = config.wlsSide.default;
+            // todo if default is not in array of regular order
+            parent.appendChild(child);
+            buildWLSside();
+            parseComponent(args = { fileName: config.wlsSide.default, parent: 'theside' });
+        }
     });
+
     // setMasonry();
-    // add sidebar component
-    buildWLSside();
-    parseComponent(args = {
-        fileName: wlsSide,
-        parent: 'theside'
-    });
+    // add default sidebar component
+    
 }
 
 // function setMasonry() {

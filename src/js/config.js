@@ -20,7 +20,8 @@ export let config = {
         'google',
         'digital',
         'stream',
-        'other'
+        'other',
+        'side'
     ],
     wlsSide: {
         default: 'bp',

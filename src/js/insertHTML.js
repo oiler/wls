@@ -4,29 +4,21 @@ export function insertHTML(params) {
     let config = params.config,
         json,
         fileName,
-        parent,
-        child,
         element,
         html,
         args = {};
     if (params.json) {
         json = params.json,
-        fileName = params.fileName,
-        parent = document.getElementById(params.parent),
-        child = document.createElement('ul');
+        fileName = params.fileName;
     }
     if (params.options) {
         json = params.options,
-        fileName = 'side',
-        parent = document.getElementById('content'),
-        child = document.createElement('ul');
+        fileName = 'side';
     }
-//    console.log(fileName, json);
-    html = buildHTML(args = {json, config, fileName})
-    child.id = fileName;
-    parent.appendChild(child);
-    element = document.getElementById(child.id);
+    html = buildHTML(args = {json, config, fileName});
+    element = document.getElementById(fileName);
     element.innerHTML = html;
+console.log(fileName);
     // } else {
     //     isError = true;
     //     logError('json was empty');
