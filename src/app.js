@@ -1,4 +1,5 @@
 import {config}     from './js/config';
+import {listenForClicks} from './js/listenForClicks';
 import {insertHTML} from './js/insertHTML';
 import {getJSON}    from './js/getJSON';
 
@@ -41,6 +42,8 @@ function initWLS() {
             parent.appendChild(child);
             buildWLSside();
             parseComponent(args = { fileName: config.wlsSide.default, parent: 'theside' });
+            listenForClicks({className: 'sidelinks', parseComponent});
+
         }
     });
 

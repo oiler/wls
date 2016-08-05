@@ -18,7 +18,7 @@ export function buildHTML(params) {
 
     if (data.options) {
         Object.keys(data.options).forEach(function(key, index) {
-            output += pre + '<a class="pizza" href="#">' + data.options[key] + '</a>' + suf;
+            output += pre + '<a class="sidelinks" href="#">' + data.options[key] + '</a>' + suf;
             output += '\n';
         });
         return output;

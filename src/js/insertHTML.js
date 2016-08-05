@@ -18,7 +18,6 @@ export function insertHTML(params) {
     html = buildHTML(args = {json, config, fileName});
     element = document.getElementById(fileName);
     element.innerHTML = html;
-console.log(fileName);
     // } else {
     //     isError = true;
     //     logError('json was empty');
