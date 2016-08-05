@@ -51,10 +51,7 @@ export function buildHTML(params) {
                 output += suf;
             }
         });
-
         return output;
-
-    // } else {
-    //     logError('data is empty');
     }
+
 }

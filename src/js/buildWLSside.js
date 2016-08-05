@@ -1,10 +1,7 @@
 export function buildWLSside(params) {
     let config = params.config,
         insertHTML = params.insertHTML,
-        options = {},
+        options = config.wlsSide,
         args;
-    options = config.wlsSide;
-    insertHTML(args = {
-        options, config
-    });
+    insertHTML(args = {options, config});
 }

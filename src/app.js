@@ -1,9 +1,9 @@
 import {config}             from './js/config';
-import {listenForClicks}    from './js/listenForClicks';
-import {insertHTML}         from './js/insertHTML';
 import {getJSON}            from './js/getJSON';
+import {insertHTML}         from './js/insertHTML';
 import {buildWLSside}       from './js/buildWLSside';
 import {parseComponent}     from './js/parseComponent';
+import {listenForClicks}    from './js/listenForClicks';
 
 let html = '',
     json,
@@ -11,7 +11,6 @@ let html = '',
     isError = false,
     wlsOrder = config.wlsOrder
     ;
-
 
 function initWLS() {
     // add base components as determined by config order
@@ -22,7 +21,7 @@ function initWLS() {
         child.id = wlsOrder[key];
         parent.appendChild(child);
         if (wlsOrder[key] !== 'side') {
-            parseComponent(args = { fileName: wlsOrder[key], config, getJSON, insertHTML });
+            parseComponent(args = {fileName: wlsOrder[key], config, getJSON, insertHTML});
         } else {
             let parent = document.getElementById('theside'),
                 child = document.createElement('ul');
@@ -30,9 +29,8 @@ function initWLS() {
             // todo if default is not in array of regular order
             parent.appendChild(child);
             buildWLSside(args = {config, insertHTML});
-            parseComponent(args = { fileName: config.wlsSide.default, parent: 'theside', config, getJSON, insertHTML });
-            listenForClicks({className: 'sidelinks', parseComponent, config, getJSON, insertHTML});
-
+            parseComponent(args = {fileName: config.wlsSide.default, parent: 'theside', config, getJSON, insertHTML});
+            listenForClicks(args = {className: 'sidelinks', parseComponent, config, getJSON, insertHTML});
         }
     });
 }
@@ -40,9 +38,13 @@ function initWLS() {
 initWLS();
 
 /* todo
-set side toggle
+get rid of # onclick
+open links in new tabs
+//set side toggle
 is no masonry ok
-start css
+start new css
+service worker
+connect to gsheet tabs
 */
 
 // function setMasonry() {
