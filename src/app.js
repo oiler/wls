@@ -1,7 +1,8 @@
-import {config}     from './js/config';
-import {listenForClicks} from './js/listenForClicks';
-import {insertHTML} from './js/insertHTML';
-import {getJSON}    from './js/getJSON';
+import {config}             from './js/config';
+import {listenForClicks}    from './js/listenForClicks';
+import {insertHTML}         from './js/insertHTML';
+import {getJSON}            from './js/getJSON';
+import {buildWLSside}       from './js/buildWLSside';
 
 let html = '',
     json,
@@ -40,7 +41,7 @@ function initWLS() {
             child.id = config.wlsSide.default;
             // todo if default is not in array of regular order
             parent.appendChild(child);
-            buildWLSside();
+            buildWLSside(args = {config, insertHTML});
             parseComponent(args = { fileName: config.wlsSide.default, parent: 'theside' });
             listenForClicks({className: 'sidelinks', parseComponent});
 
@@ -59,14 +60,6 @@ function initWLS() {
 //     });
 // }
 
-function buildWLSside() {
-    let options = {};
-    options = config.wlsSide;
-    //console.log(data);
-    insertHTML(args = {
-        options, config
-    });
-}
 
 initWLS();
 
