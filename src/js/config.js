@@ -24,6 +24,7 @@ export let config = {
         'side'
     ],
     wlsSide: {
+        fileName: 'side',
         default: 'bp',
         options: [
             'bp',
