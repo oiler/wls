@@ -18,7 +18,7 @@ export function buildHTML(params) {
 
     if (data.options) {
         Object.keys(data.options).forEach(function(key, index) {
-            output += pre + '<a class="sidelinks" href="#">' + data.options[key] + '</a>' + suf;
+            output += pre + '<a class="sidelinks" target="_blank" href="">' + data.options[key] + '</a>' + suf;
             output += '\n';
         });
         return output;
@@ -32,7 +32,7 @@ export function buildHTML(params) {
                     output += subHdrPre + key + subHdrSuf + '\n';
                 } else {
                     // regular list item
-                    output += pre + '<a href="' + data.links[key] + '">' + key + '</a>' + suf;
+                    output += pre + '<a target="_blank" href="' + data.links[key] + '">' + key + '</a>' + suf;
                 }
                 output += '\n';
             }
@@ -41,10 +41,10 @@ export function buildHTML(params) {
                 Object.keys(data.links[key]).forEach(function(item, index, array) {
                     if (index === 0) {
                         // first of many items on a single row
-                        output += '<a href="' + data.links[key][item] + '">' + item + '</a>';
+                        output += '<a target="_blank" href="' + data.links[key][item] + '">' + item + '</a>';
                     } else {
                         // the rest of many items on a single row
-                        output += ' - <a href="' + data.links[key][item] + '">' + item.substring(0, 1) + '</a>';
+                        output += ' - <a target="_blank" href="' + data.links[key][item] + '">' + item.substring(0, 1) + '</a>';
                     }
                 });
                 output += '\n';
