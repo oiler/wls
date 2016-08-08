@@ -38,15 +38,18 @@ function initWLS() {
 initWLS();
 
 /* todo
-get rid of # onclick
-open links in new tabs
-//set side toggle
-is no masonry ok
-start new css
+start new css build
 service worker
+//get rid of # onclick
+//open links in new tabs
+//set side toggle
+enhancements:
+add masonry option: only load in desktop, turn on/off, keep on for all devices, css masonry (http://w3bits.com/css-masonry/)
 connect to gsheet tabs
+load side via url param
 */
 
+//
 // function setMasonry() {
 //     var elem = document.querySelector('#content');
 //     var msnry = new Masonry( elem, {
