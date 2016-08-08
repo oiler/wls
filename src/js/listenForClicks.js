@@ -9,7 +9,8 @@ export function listenForClicks(params) {
     for (var i=0; i<linksToClick.length; i++) {
         linksToClick[i].addEventListener(
             'click', 
-            function() {
+            function(ev) {
+                ev.preventDefault();
                 let thisFileName = this.textContent,
                     parent = document.getElementById('theside'),
                     child = document.createElement('ul');
