@@ -12,7 +12,8 @@
         },
         "fantasy": {
             "fantasy": "http://baseball.fantasysports.yahoo.com/b1",
-            "hcbl": "http://baseball.fantasysports.yahoo.com/b1/36627/2"
+            "hcbl": "http://baseball.fantasysports.yahoo.com/b1/36627/2",
+            "public": "http://baseball.fantasysports.yahoo.com/b1/147255/4"
         },
         "mabl": {
             "mabl": "http://m-abl.baseball.cbssports.com/",
