@@ -21,14 +21,18 @@
 
     "OTHER": "",
     "oiler/babel": "https://github.com/oiler/babel",
+    "a11y": "https://github.com/brunopulis/awesome-a11y",
+    "a11y patterns": "http://a11yproject.com/patterns/",
 
     "SERVICE WORKER": "",
     "ponyfoo": "https://ponyfoo.com/articles/backgroundsync",
     "sw toolbox": "https://github.com/GoogleChrome/sw-toolbox",
     "sw precache": "https://github.com/GoogleChrome/sw-precache",
     "sw libs": "https://developers.google.com/web/tools/service-worker-libraries/?hl=en",
+    "sw install": "https://philna.sh/blog/2016/08/17/install-a-service-worker-declaratively/",
 
     "EXPLAINERS": "",
+    "event listener": "https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md",
     "this": "http://rainsoft.io/gentle-explanation-of-this-in-javascript"
     }
 }
