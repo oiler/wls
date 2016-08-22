@@ -13,9 +13,10 @@ export function insertHTML(params) {
     }
     if (params.options) {
         json = params.options,
-        fileName = config.wlsSide.fileName;
+        fileName = config.wlsSide.default;
     }
     html = buildHTML(args = {json, config, fileName});
     element = document.getElementById(fileName);
+//    console.log(fileName, element);
     element.innerHTML = html;
 }
