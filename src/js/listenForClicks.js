@@ -1,10 +1,11 @@
+import {getJSON} from './getJSON.js';
+import {insertHTML} from './insertHTML.js';
+import {parseComponent} from './parseComponent.js';
+
 export function listenForClicks(params) {
     let className = params.className,
-        parseComponent = params.parseComponent,
         linksToClick = document.getElementsByClassName(className),
         config = params.config,
-        getJSON = params.getJSON,
-        insertHTML = params.insertHTML,
         args;
     for (var i=0; i<linksToClick.length; i++) {
         linksToClick[i].addEventListener(
