@@ -13,7 +13,7 @@ export function insertHTML(params) {
     }
     if (params.options) {
         json = params.options,
-        fileName = config.wlsSide.default;
+        fileName = 'side';
     }
     html = buildHTML(args = {json, config, fileName});
     element = document.getElementById(fileName);
