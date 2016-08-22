@@ -37,7 +37,7 @@ export let config = {
          ]
     },
     data: {
-        baseDir: './src/data/',
+        baseDir: './data/',
         fileExt: '.json'
     } 
 };
