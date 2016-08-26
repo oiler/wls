@@ -33,6 +33,8 @@ export let config = {
             'js',
             'wp',
             'mlb',
+            'travel',
+            'money',
             'matchup'
          ]
     },
