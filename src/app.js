@@ -2,6 +2,7 @@ import {config}             from './js/config';
 import {buildWLSside}       from './js/buildWLSside';
 import {parseComponent}     from './js/parseComponent';
 import {listenForClicks}    from './js/listenForClicks';
+import {getParameterByName} from './js/getParameterByName';
 
 let html = '',
     json,
@@ -14,13 +15,21 @@ function initWLS() {
     // add base components as determined by config order
     Object.keys(wlsOrder).forEach(function(key, index, array) {
         let parent = document.getElementById('content'),
-            child = document.createElement('ul');
+            child = document.createElement('ul'),
+            sideDefaultFileName;
         child.id = wlsOrder[key];
         parent.appendChild(child);
         if (wlsOrder[key] === 'side') {
             // todo make sure side default comp is not in array of regular order
-            buildWLSside(args = {config});
-            parseComponent(args = {fileName: config.wlsSide.default, parent: 'theside', config});
+            let preloadComponent = getParameterByName({key:'c'})
+            if (preloadComponent) {
+                // @todo: use [].filter here for input checking
+                sideDefaultFileName = preloadComponent;
+            } else {
+                sideDefaultFileName = config.wlsSide.default;
+            }
+            buildWLSside(args = {fileName: sideDefaultFileName, config});
+            parseComponent(args = {fileName: sideDefaultFileName, parent: 'theside', config});
             listenForClicks(args = {className: 'sidelinks', config});
         } else {
             parseComponent(args = {fileName: wlsOrder[key], config});
