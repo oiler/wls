@@ -35,7 +35,8 @@ export let config = {
             'mlb',
             'travel',
             'money',
-            'matchup'
+            'matchup mlb',
+            'matchup cfb'
          ]
     },
     data: {

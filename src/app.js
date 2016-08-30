@@ -1,4 +1,4 @@
-import {config}             from './js/config';
+import {config}             from '../data/config';
 import {buildWLSside}       from './js/buildWLSside';
 import {parseComponent}     from './js/parseComponent';
 import {listenForClicks}    from './js/listenForClicks';
@@ -48,7 +48,7 @@ service worker
 enhancements:
 add masonry option: only load in desktop, turn on/off, keep on for all devices, css masonry (http://w3bits.com/css-masonry/)
 connect to gsheet tabs
-load side via url param
+//load side via url param
 */
 
 //
