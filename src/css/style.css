@@ -15,7 +15,7 @@ blockquote, q { quotes:"" ""}
 form label {cursor:pointer}
 fieldset {border:none}
 input, select, textarea {font-size:100.01%;font-family:inherit}
-body {font:normal 62.5% Verdana, Arial, Helvetica, sans-serif;margin:0;}
+body {font:normal 62.5% Verdana, Arial, Helvetica, sans-serif; margin:0; background:#fff;}
 em {font-style:italic}
 strong {font-weight:bold}
 
