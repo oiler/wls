@@ -1,0 +1,4 @@
+# Header set Content-Security-Policy "default-src 'self';"
+# Header set Content-Security-Policy-Report-Only: "default-src data: wls.dev; script-src * 'unsafe-inline'; style-src * data: 'unsafe-inline'; img-src *; font-src *; connect-src *; media-src *; object-src *; child-src *; frame-src *; worker-src *; frame-ancestors *; form-action *;"
+
+Header set Content-Security-Policy-Report-Only: "default-src data: *.publicsport.net; script-src *; style-src * data: 'unsafe-inline'; img-src *; font-src *; connect-src *; media-src *; object-src *; child-src *; frame-src *; worker-src *; frame-ancestors *; form-action *; report-uri https://publicsport.report-uri.io/r/default/csp/reportOnly;"
