@@ -1,2 +1,2 @@
 #Header set Content-Security-Policy-Report-Only: "default-src * 'self' data: 'unsafe-inline' 'unsafe-eval' https:; report-uri https://publicsport.report-uri.io/r/default/csp/reportOnly;"
-Header set Content-Security-Policy-Report-Only: "default-src https:; report-uri https://publicsport.report-uri.io/r/default/csp/reportOnly;"
+Header set Content-Security-Policy-Report-Only: "default-src data: 'unsafe-inline' 'unsafe-eval' https:; report-uri https://publicsport.report-uri.io/r/default/csp/reportOnly;"
