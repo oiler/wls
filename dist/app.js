@@ -90,7 +90,7 @@ var config = {
     wlsSide: {
         fileName: "side",
         "default": "bp",
-        options: ["bankrate", "bp", "tnr", "dev2", "js", "wp", "mlb", "travel", "money", "matchup-mlb", "matchup-nhl", "matchup-cfb", "matchup-all"]
+        options: ["offwing", "bankrate", "bp", "tnr", "dev2", "js", "wp", "mlb", "travel", "money", "matchup-mlb", "matchup-nhl", "matchup-cfb", "matchup-all"]
     },
     data: {
         baseDir: "./data/",
