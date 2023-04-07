@@ -27,6 +27,7 @@ export let config = {
         fileName: 'side',
         default: 'bp',
         options: [
+            'offwing',
             'bankrate',
             'bp',
             'tnr',
