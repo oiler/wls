@@ -1,0 +1,35 @@
+{"links" : {
+    "NHL": "",
+    "nhl odds": "http://www.donbest.com/nhl/odds/",
+    "yahoo": "http://sports.yahoo.com/nhl/scoreboard",
+    "newsday": "http://newsday.sportsdirectinc.com/sports-scores/Hockey-Scores-Matchups.aspx",
+
+    "NEWS": "",
+    "feedly": "https://feedly.com/i/category/Hockey",
+    "nhl beat": "https://twitter.com/oiler/lists/nhl-beat",
+
+    "DATA": "",
+    "home favs": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+%3D+2017+and+month+%21%3D+10+and+o%3Arest%3C%3D1+and+site%3Dhome+and+-200%3Cline%3C-150&submit=++S+D+Q+L+%21++",
+    "away nonconf": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+%3D+2017+and+month+%21%3D+10+and+site%3Daway+and+total%3D5.5+and+conference%21%3Do%3Aconference&submit=++S+D+Q+L+%21++",
+    "away avg line": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2010+and+line%3EAverage%28line%40team+and+season%2C+N%3D10%29+and+site%3Daway+and+total%3E5&submit=++S+D+Q+L+%21++",
+    "home fav avg line": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2010+and+line%3CAverage%28line%40team+and+season%29+and+site%3Dhome+and+line%3C0&submit=++S+D+Q+L+%21++",
+    "under away no rest": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+and+site%3Daway+and+rest%3D0+and+total%3D5.5&submit=++S+D+Q+L+%21++",
+    "tired away teams": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3D2017+and+site%3Daway+and+Average%28rest%40team+and+season%2C+N%3D4%29%3C1.2&submit=++S+D+Q+L+%21++",
+    "away vs tired home": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+site%3Daway+and+Average%28o%3Arest%40o%3Ateam+and+season%2C+N%3D9%29%3C1&submit=++S+D+Q+L+%21++",
+    "rested away favs": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+site%3Daway+and+line%3C0+and+rest%3E1&submit=++S+D+Q+L+%21++",
+    "high scoring away dogs": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+%3E+2006+and+site%3Daway+and+P%3Aou+margin%3E0+and+total%3E5+and+line%3E0&submit=++S+D+Q+L+%21++",
+    "home fav off close game": "http://sportsdatabase.com/nhl/query?output=default&sdql=season+%3E+2006+and+site%3Dhome+and+0.5%3E%3Dp%3Aou+margin%3E%3D-0.5+and+1%3E%3Dp%3Amargin%3E%3D-1+and+-175%3Cline%3C-110&submit=++S+D+Q+L+%21++",
+    "away trip last game": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+site%3Daway+and+site+streak%3C-1+and+n%3Asite%3Dhome+and+line%3E0&submit=++S+D+Q+L+%21++",
+    "home stand last game": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+site%3Dhome+and+site+streak%3E2+and+p%3Asite%3Dhome+and+n%3Asite%3Daway+and+rest%3E0&submit=++S+D+Q+L+%21++",
+    "away 3rd in 4": "http://sportsdatabase.com/nhl/query?output=default&sdql=season%3E2006+and+Sum%28rest%40team+and+season%2C+N%3D1%29%3D1+and+site%3Daway+and+rest%3D0&submit=++S+D+Q+L+%21++",
+
+    
+
+
+    "RESOURCES":"",
+    "trends": "http://www.covers.com/pageLoader/pageLoader.aspx?page=/data/nhl/trends/league/season1.html",
+    "shrpsports": "http://www.shrpsports.com/nhl/result.htm",
+    "salami": "http://www.vegasinsider.com/nhl/story.cfm/story/1735161",
+    "spy": "http://pregame.com/sportsbook_spy/default.aspx"
+    }
+}

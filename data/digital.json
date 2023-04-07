@@ -1,0 +1,71 @@
+{ 
+    "links" : {
+        "groupme": "https://app.groupme.com/chats",
+        "github": {
+            "github": "https://github.com/oiler?tab=repositories",
+            "rfs": "https://github.com/runforsomething",
+            "fnf": "https://github.com/ftrnw"
+        },
+        "notes": {
+            "notes": "https://github.com/oiler/notes",
+            "shortcuts": "https://github.com/oiler/notes/blob/master/shortcuts.md",
+            "javascript": "https://github.com/oiler/notes/blob/master/javascript.md",
+            "bash": "https://github.com/oiler/notes/blob/master/bash.md"
+        },
+        "slack": {
+            "slack": "https://app.slack.com",
+            "bp": "https://app.slack.com/client/T033N5Z6Z/C033N5Z79",
+            "rfs": "https://app.slack.com/client/T3V1L6BV3/CDF04M5CY"
+        },
+        "feedly": "https://feedly.com/i/my",
+        "reader": "https://digg.com/reader/folder/New%20Feeds",
+        "awesome": "https://github.com/sindresorhus/awesome",
+        "tw adv search": "https://twitter.com/search-advanced?lang=en",
+        "twitter": {
+            "twitter": "https://mobile.twitter.com/oiler/lists/real-twitter",
+            "mobile": "https://mobile.twitter.com/",
+            "lists": "https://mobile.twitter.com/oiler/lists"
+        },
+        "lists": {
+            "cfb": "https://mobile.twitter.com/oiler/cfb",
+            "hockey": "https://mobile.twitter.com/oiler/hockey",
+            "football": "https://mobile.twitter.com/oiler/football",
+            "baseball": "https://mobile.twitter.com/oiler/baseball"
+        },
+        "tw manual": "https://eev.ee/blog/2016/02/20/twitters-missing-manual/",
+        "vellum links": "http://vellum.nytlabs.com/mylinks",
+        "facebook": {
+            "facebook": "http://ssl.facebook.com/",
+            "mobile fb": "http://m.facebook.com/"
+        },
+        "tumblr": "http://www.tumblr.com/dashboard",
+        "pocket": "http://getpocket.com/a/queue/list/",
+        "instapaper": "http://www.instapaper.com/u",
+        "mint": "https://wwws.mint.com/overview.event",
+        "bit.ly": "http://bit.ly/",
+        "dropbox": "http://dropbox.com",
+        "foursquare": "https://foursquare.com/",
+        "reddit": "http://www.reddit.com/r/all/",
+        "wp": "http://oiler2.wordpress.com/wp-admin/",
+        "formstack": "https://www.formstack.com/admin/form/dashboard",
+        "aws": "https://console.aws.amazon.com/s3/home",
+        "ifttt": "http://ifttt.com/dashboard",
+        "prismatic": "http://getprismatic.com/newsfeed#",
+        "thinkup": "http://oiler.phpfogapp.com",
+        "hellofax": "http://hellofax.com",
+        "harvest": "https://foxlab.harvestapp.com/invoices?tab=open",
+        "trillian": "http://www.trillian.im/chat",
+        "pantheon": "https://dashboard.getpantheon.com/",
+        "photopea": "https://www.photopea.com/",
+        "csstricks": "https://css-tricks.com/snippets/sass/",
+        "trello": {
+            "tlo": "https://trello.com/b/liWFfixx/oiler-fresh",
+            "ncrmnt": "https://trello.com/b/g6O5Ka0R/increment",
+            "wotr": "https://trello.com/b/elaFpDgM/warontherocks",
+            "hii": "https://trello.com/b/rQgcNQba/human-impact",
+            "foxlabs": "https://trello.com/foxlaboratory"
+        },
+        "lambda": "https://s3.amazonaws.com/oiler-test/audio.mp3",
+        "my ip": "https://www.google.com/search?q=my+ip"
+    }
+}

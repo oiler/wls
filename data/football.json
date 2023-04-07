@@ -1,0 +1,52 @@
+{ 
+    "links" : {
+        "nfl greg": "http://www.nfl.com/news/around-the-league",
+        "deadspin": "http://deadspin.com/",
+        "rewind": "https://gamerewind.nfl.com/nflgr/secure/schedule",
+        "yahoo": {
+            "yahoo": "http://www.sports.yahoo.com/nfl/",
+            "scores": "http://sports.yahoo.com/nfl/scoreboard/"
+        },
+        "fantasy": {
+            "fan": "http://football.fantasysports.yahoo.com/",
+            "hcfl": "https://football.fantasysports.yahoo.com/f1/397651/7",
+            "gg": "https://football.fantasysports.yahoo.com/f1/91462/6",
+            "r": "https://football.fantasysports.yahoo.com/f1/767723/16"
+        },
+        "espn": {
+            "espn": "https://fantasy.espn.com/football/team?leagueId=1894980&teamId=12",
+            "picks": "https://www.runyourpool.com/nfl/pickem/multiple_entries.cfm",
+            "scores": "http://www.espn.com/nfl/scoreboard"
+        },
+        "fo": {
+            "fo": "http://www.footballoutsiders.com/",
+            "fo premium": "https://www.footballoutsiders.com/premium/spreads.php",
+            "snaps": "http://www.footballoutsiders.com/stats/snapcounts"
+        },
+        "pft": "http://profootballtalk.nbcsports.com/",
+        "pfweek": "http://www.profootballweekly.com/",
+        "smart": "http://smartfootball.com/",
+        "borischen": "http://www.borischen.co/",
+        "espn ffpa": "http://games.espn.go.com/ffl/pointsagainst",
+        "ypp": "https://www.teamrankings.com/nfl/stat/yards-per-play",
+        "fguys": { 
+            "fguys": "http://subscribers.footballguys.com/apps/news.php",
+            "idp": "http://forums.footballguys.com/forum/index.php?s=2bc00ce9facf1f0a805aa565ead01549&showtopic=713437"
+        },
+        "sportsfrog": "http://sportsfrog.net",
+        "cfb news": "http://collegefootballnews.com/",
+        "cfb twitter": "http://athlonsports.com/college-football/twitter-accounts-every-college-football-fan-should-follow-2016-edition",
+        "yahoo cfb": {
+            "yahoo cfb": "http://sports.yahoo.com/college-football/",
+            "fantasy": "https://college.fantasysports.yahoo.com/cfb/16948/2",
+            "picks": "https://football.fantasysports.yahoo.com/college/933/2"
+        },
+        "espn cfb": {
+            "espn cfb": "http://www.espn.com/college-football/",
+            "scores": "http://www.espn.com/college-football/scoreboard/_/group/80/year/2018/seasontype/2/week/"
+        },
+        "sbd ncaaf": "http://sportsdatabase.com/ncaafb/query?output=default&sdql=season%3D2018+and+site%3Dhome+and+conference&submit=++S+D+Q+L+%21++",
+        "2018 gsheet": "https://docs.google.com/spreadsheets/d/1KwGeTapjdpUD2OjTWiOsbIoqUPhv7poWdeFi_EM4Ekg/",
+        "epl": "https://fantasy.premierleague.com/my-team"
+    }
+}

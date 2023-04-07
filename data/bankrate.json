@@ -1,0 +1,42 @@
+{ "links" : {
+    "TOOLS": "",
+    "wp publish": "https://publish.bankrate.com/wp-admin/tools.php",
+    "ux qa": "https://ux.qa.bankrate.com/",
+    "style guide": "https://drive.google.com/drive/folders/1WeFBohq6yHEzvYDIcp0KCnSctQonV-zM",
+    "outlook": "https://outlook.office.com/owa/",
+    "my trello": "https://trello.com/b/c3r7ap9Q/bankrate",
+
+    "MyFinance": "",
+    "drive folder": "https://drive.google.com/drive/folders/1-6ZX0eebBi-bVNEtGDrag8mxphJtpJiE",
+    "trello mf": "https://trello.com/b/SY9EHmkc/product-roadmap",
+    "admin": "https://www.myfinance.com/admin/",
+    "staging": "https://staging.myfinance.com/admin/",
+    "conflunce": "https://bankratecom.atlassian.net/wiki/spaces/MYF/pages",
+
+
+    "ALL TEAMS": "",
+    "all confl": "https://bankratecom.atlassian.net/wiki/discover/all-updates",
+    "all jira": "https://bankratecom.atlassian.net/secure/ManageRapidViews.jspa",
+
+    "DATA SCI": "",
+    "dsci confl": "https://bankratecom.atlassian.net/wiki/spaces/DSCI",
+
+    "DATA ENG": "",
+    "de jira": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=37&projectKey=DE&view=planning.nodetail&selectedIssue=DE-1856",
+
+    "DEVOPS": "",
+    "devops jira": "https://bankratecom.atlassian.net/projects/DEVOPS/issues/",
+
+    "HR": "",
+    "adp workforce": "https://workforcenow.adp.com/public/index.htm",
+    "adp my": "https://my.adp.com/static/redbox/login.html",
+
+    "CONTENT JIRA": "",
+    "backlog": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=32&view=planning.nodetail&quickFilter=84&epics=visible",
+    "reportedbyme": "https://bankratecom.atlassian.net/projects/CON/issues/?filter=reportedbyme",
+    "Open & ByMe": "https://bankratecom.atlassian.net/issues/?filter=20201",
+
+    "PAT JIRA": "",
+    "backlog": "https://bankratecom.atlassian.net/secure/RapidBoard.jspa?rapidView=67&view=planning"
+    }
+}
