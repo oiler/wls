@@ -8,6 +8,7 @@
         "scores": "https://www.espn.com/nhl/scoreboard",
         "fantasy": "https://hockey.fantasysports.yahoo.com/hockey/9288/6",
         "espnfantasy": "http://fantasy.espn.com/hockey/team?leagueId=17107&teamId=1",
+        "gpro": "https://thegmhl.proboards.com/",
         "rotoworld": "https://www.dailyfaceoff.com/hockey-player-news/",
         "tsn.ca": "http://tsn.ca/nhl",
         "games per week": "https://www.dailyfaceoff.com/nhl-weekly-schedule/",
