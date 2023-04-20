@@ -8,7 +8,11 @@
         "scores": "https://www.espn.com/nhl/scoreboard",
         "fantasy": "https://hockey.fantasysports.yahoo.com/hockey/9288/6",
         "espnfantasy": "http://fantasy.espn.com/hockey/team?leagueId=17107&teamId=1",
-        "gpro": "https://thegmhl.proboards.com/",
+        "gpro": { 
+            "recent": "https://thegmhl.proboards.com/posts/recent",
+            "transactions": "https://thegmhl.proboards.com/thread/2239/team-beers-2023-24-transactions",
+            "all rosters": "https://thegmhl.proboards.com/thread/2/team-rosters"
+        },
         "rotoworld": "https://www.dailyfaceoff.com/hockey-player-news/",
         "tsn.ca": "http://tsn.ca/nhl",
         "games per week": "https://www.dailyfaceoff.com/nhl-weekly-schedule/",
