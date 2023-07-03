@@ -1,11 +1,9 @@
 { 
     "links" : {
         "ssfcu": "https://www.suncoastcreditunion.com/",
-        "mbna": "https://www.bankofamerica.com/index.jsp?page_msg=mbna",
+        "space": "https://olb.sccu.com/OnlineBanking/SignIn.aspx?p_r=1",
         "amex": "https://www.americanexpress.com/",
         "barclays": "https://www.barclaycardus.com/",
-        "chase": "https://chaseonline.chase.com/",
-        "cap one": "https://verified.capitalone.com/sic-ui/#/signin",
-        "verizon": "http://verizon.com/myverizon"
+        "chase": "https://chaseonline.chase.com/"
     }
 }
