@@ -9,12 +9,13 @@
         },
         "fantasy": {
             "fan": "http://football.fantasysports.yahoo.com/",
-            "hcfl": "https://football.fantasysports.yahoo.com/f1/397651/7",
-            "gg": "https://football.fantasysports.yahoo.com/f1/91462/6",
-            "r": "https://football.fantasysports.yahoo.com/f1/767723/16"
+            "hcfl": "https://football.fantasysports.yahoo.com/f1/549848/6",
+            "gg": "https://football.fantasysports.yahoo.com/f1/34441/6",
+            "r": "https://football.fantasysports.yahoo.com/f1/121841/6"
         },
         "espn": {
-            "espn": "https://fantasy.espn.com/football/team?leagueId=1894980&teamId=12",
+            "turf": "https://fantasy.espn.com/football/team?leagueId=1894980&teamId=12",
+            "money": "https://fantasy.espn.com/football/team?leagueId=795997812&teamId=4",
             "picks": "https://www.runyourpool.com/nfl/pickem/multiple_entries.cfm",
             "scores": "http://www.espn.com/nfl/scoreboard"
         },
@@ -39,7 +40,7 @@
         "yahoo cfb": {
             "yahoo cfb": "http://sports.yahoo.com/college-football/",
             "fantasy": "https://college.fantasysports.yahoo.com/cfb/16948/2",
-            "picks": "https://football.fantasysports.yahoo.com/college/933/2"
+            "picks": "https://football.fantasysports.yahoo.com/college/2732/2"
         },
         "espn cfb": {
             "espn cfb": "http://www.espn.com/college-football/",
