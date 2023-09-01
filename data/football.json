@@ -16,7 +16,7 @@
         "espn football": {
             "espn": "http://www.espn.com/nfl/scoreboard",
             "turf": "https://fantasy.espn.com/football/team?leagueId=1894980&teamId=12",
-            "money": "https://fantasy.espn.com/football/team?leagueId=795997812&teamId=4",
+            "money": "https://fantasy.espn.com/football/team?leagueId=795997812&teamId=4"
         },
         "fo": {
             "fo": "http://www.footballoutsiders.com/",
