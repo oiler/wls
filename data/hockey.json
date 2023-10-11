@@ -6,7 +6,12 @@
             "tv": "https://www.nhl.com/tv"
         },
         "scores": "https://www.espn.com/nhl/scoreboard",
-        "fantasy": "https://hockey.fantasysports.yahoo.com/hockey/9288/6",
+        "yahoo fantasy": {
+            "k": "https://hockey.fantasysports.yahoo.com/hockey/9288/6",
+            "r": "https://hockey.fantasysports.yahoo.com/hockey/24935/6",
+            "g": "https://hockey.fantasysports.yahoo.com/hockey/1326/7",
+            "h": "https://hockey.fantasysports.yahoo.com/hockey/2141/12"            
+        },
         "espnfantasy": "http://fantasy.espn.com/hockey/team?leagueId=17107&teamId=1",
         "gpro": { 
             "recent": "https://thegmhl.proboards.com/posts/recent",
