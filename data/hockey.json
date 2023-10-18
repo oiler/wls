@@ -7,7 +7,7 @@
         },
         "scores": "https://www.espn.com/nhl/scoreboard",
         "yahoo fantasy": {
-            "yahoo": "https://hockey.fantasysports.yahoo.com/hockey/82550/1",
+            "y": "https://hockey.fantasysports.yahoo.com/hockey/82550/1",
             "r": "https://hockey.fantasysports.yahoo.com/hockey/24935/6",
             "s": "https://hockey.fantasysports.yahoo.com/hockey/42838/8",
             "d": "https://hockey.fantasysports.yahoo.com/hockey/3053/2",
