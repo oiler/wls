@@ -13,7 +13,7 @@
         "lineups": "https://www.mlb.com/starting-lineups/",
         "probables": "https://www.mlb.com/probable-pitchers/",
         "all athletic": {
-            "athl": "https://theathletic.com/mlb/",
+            "ath": "https://theathletic.com/mlb/",
             "fantasy": "https://theathletic.com/fantasy-baseball/",
             "twitter list": "https://mobile.twitter.com/oiler/lists/mlb-beat",
             "eno": "https://theathletic.com/author/eno-sarris/",
@@ -72,7 +72,28 @@
             "espnBOS": "https://www.espn.com/mlb/team/schedule/_/name/bos",
             "lawBOS": "https://theathletic.com/5261710/2024/02/12/red-sox-2024-top-prospects-keith-law/",
             "baBOS": "https://www.baseballamerica.com/teams/2004-boston-red-sox/prospects/?season=2024&ranking=preseason",
-            "dcBAL": "https://www.fangraphs.com/roster-resource/depth-charts/redsox"
-        }
+            "dcBOS": "https://www.fangraphs.com/roster-resource/depth-charts/red-sox"
+        },
+        "teamNYY": { 
+            "NYY": "https://www.mlb.com/yankees/news/",
+            "espnNYY": "https://www.espn.com/mlb/team/schedule/_/name/nyy",
+            "lawNYY": "https://theathletic.com/5261866/2024/02/12/yankees-2024-top-prospects-keith-law/",
+            "baNYY": "https://www.baseballamerica.com/teams/2029-new-york-yankees/prospects/?season=2024&ranking=preseason",
+            "dcNYY": "https://www.fangraphs.com/roster-resource/depth-charts/yankees"
+        },
+        "teamTBR": { 
+            "TBR": "https://www.mlb.com/rays/news/",
+            "espnTBR": "https://www.espn.com/mlb/team/schedule/_/name/tb",
+            "lawTBR": "https://theathletic.com/5262256/2024/02/12/rays-2024-top-prospects-keith-law/",
+            "baTBR": "https://www.baseballamerica.com/teams/2021-tampa-bay-rays/prospects/?season=2024&ranking=preseason",
+            "dcTBR": "https://www.fangraphs.com/roster-resource/depth-charts/rays"
+        },
+        "teamTOR": { 
+            "TOR": "https://www.mlb.com/bluejays/news/",
+            "espnTOR": "https://www.espn.com/mlb/team/schedule/_/name/tor",
+            "lawTOR": "https://theathletic.com/5262403/2024/02/12/blue-jays-2024-top-prospects-keith-law/",
+            "baTOR": "https://www.baseballamerica.com/teams/2023-toronto-blue-jays/prospects/?season=2024&ranking=preseason",
+            "dcTOR": "https://www.fangraphs.com/roster-resource/depth-charts/blue-jays"
+        },
     }
 }
