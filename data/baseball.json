@@ -11,8 +11,7 @@
             "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/"
         },
         "lineups": "https://www.mlb.com/starting-lineups/",
-        "probables": "https://www.mlb.com/probable-pitchers/"            
-        },
+        "probables": "https://www.mlb.com/probable-pitchers/",
         "all athletic": {
             "athl": "https://theathletic.com/mlb/",
             "fantasy": "https://theathletic.com/fantasy-baseball/",
@@ -61,7 +60,7 @@
         "closers": "https://www.espn.com/fantasy/baseball/flb/story?page=REcloserorgchart",
         "baseballamerica": "https://www.baseballamerica.com/players/",
         "fangraphs": "http://www.fangraphs.com/",
-                "teamBAL": { 
+        "teamBAL": { 
             "BAL": "https://www.mlb.com/orioles/news/",
             "espnBAL": "https://www.espn.com/mlb/team/schedule/_/name/bal",
             "lawBAL": "https://theathletic.com/5260955/2024/02/12/orioles-2024-top-prospects-keith-law/",
@@ -75,6 +74,5 @@
             "baBOS": "https://www.baseballamerica.com/teams/2004-boston-red-sox/prospects/?season=2024&ranking=preseason",
             "dcBAL": "https://www.fangraphs.com/roster-resource/depth-charts/redsox"
         }
-
     }
 }
