@@ -1,32 +1,30 @@
 { 
     "links" : {
-        "scores": {
-            "espn scores": "http://espn.go.com/mlb/scoreboard",
-            "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/",
-            "mlb scores": "https://www.mlb.com/scores",
-            "lineups": "https://www.mlb.com/starting-lineups/",
-            "probables": "https://www.mlb.com/probable-pitchers/"            
-        },
         "mlb.com": {
             "mlb.com": "http://mlb.com/",
             "tv": "https://www.mlb.com/tv?&affiliateId=mlbMENUtv"
         },
-        "athletic": {
+
+        "all scores": {
+            "scores": "https://www.mlb.com/scores",
+            "espn scores": "http://espn.go.com/mlb/scoreboard",
+            "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/",
+            "lineups": "https://www.mlb.com/starting-lineups/",
+            "probables": "https://www.mlb.com/probable-pitchers/"            
+        },
+        "all athletic": {
             "athletic": "https://theathletic.com/mlb/",
             "fantasy": "https://theathletic.com/fantasy-baseball/",
             "twitter list": "https://mobile.twitter.com/oiler/lists/mlb-beat",
             "eno": "https://theathletic.com/author/eno-sarris/",
             "kl": "https://theathletic.com/author/keith-law/"
         },
-        "prospects": {
+        "all prospects": {
+            "prospects": "https://www.mlb.com/prospects/top100/",
             "klaw": "https://theathletic.com/5245693/2024/02/05/top-100-mlb-prospects-2024-keith-law/",
             "espn": "https://www.espn.com/mlb/insider/insider/story/_/id/39420988/top-100-mlb-prospects-list-2024-kiley-mcdaniel-jackson-holliday-jackson-chourio",
             "ba": "https://www.baseballamerica.com/rankings/2024-top-100-prospects/",
-            "mlb": "https://www.mlb.com/prospects/top100/",
             "draft23": "https://theathletic.com/4584350/2023/07/06/mlb-draft-ranking-prospects-2023-crews-law/"
-        },
-        "depth charts": {
-            "order": "https://www.fangraphs.com/roster-resource/depth-charts/rays"
         },
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/38777/1",
@@ -34,7 +32,7 @@
             "juno": "https://baseball.fantasysports.yahoo.com/b1/1339/14",
             "vigi": "https://baseball.fantasysports.yahoo.com/b1/1309/5"
         },
-        "espn": {
+        "espn fantasy": {
             "espn": "http://www.espn.com/fantasy/baseball/",
             "uandi": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
             "hhm": "https://fantasy.espn.com/baseball/team?leagueId=2779322&teamId=7",
@@ -42,6 +40,7 @@
         },
         "uandi docs": {
             "folder": "https://drive.google.com/drive/folders/1qaFPkSGn37_reekPmddNHWiNZIAlKln0",
+            "rookie drafts": "https://drive.google.com/drive/folders/1_dORiXbs3qytCV6-QucaKzay9UTt8G-L",
             "tt": "https://docs.google.com/spreadsheets/d/1LmxYxzllfn4nsqx6ocKrt-JElCSQmQMEYcCI9zTJt0k/edit#gid=2054307044",
             "compendium": "https://docs.google.com/spreadsheets/d/1tYsDNB1KOIyeJsSln62kSAXzXTWEywZlMDHe66OmqCQ/edit#gid=861683482"
         },
@@ -55,6 +54,22 @@
             "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
             "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
         },
+        "teamBAL": { 
+            "BAL": "https://www.mlb.com/orioles/news/",
+            "espnBAL": "https://www.espn.com/mlb/team/schedule/_/name/bal",
+            "klBAL": "https://theathletic.com/5260955/2024/02/12/orioles-2024-top-prospects-keith-law/",
+            "baBAL": "https://www.baseballamerica.com/teams/2003-baltimore-orioles/prospects/?season=2024&ranking=preseason",
+            "dcBAL": "https://www.fangraphs.com/roster-resource/depth-charts/orioles"
+        },
+        "teamBOS": { 
+            "BOS": "https://www.mlb.com/redsox/news/",
+            "espnBOS": "https://www.espn.com/mlb/team/schedule/_/name/bos",
+            "klBOS": "https://theathletic.com/5261710/2024/02/12/red-sox-2024-top-prospects-keith-law/",
+            "baBOS": "https://www.baseballamerica.com/teams/2004-boston-red-sox/prospects/?season=2024&ranking=preseason",
+            "dcBAL": "https://www.fangraphs.com/roster-resource/depth-charts/redsox"
+        },
+
+
         "savant": "https://baseballsavant.mlb.com/",
         "cc": "https://craigcalcaterra.com/cup-of-coffee-newsletter/",
         "nbc": "https://www.nbcsports.com/fantasy/baseball/player-news",
