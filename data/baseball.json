@@ -1,45 +1,39 @@
 { 
     "links" : {
-        "bp": { 
-            "bp": "http://www.baseballprospectus.com/",
-            "bullpenbp": "https://legacy.baseballprospectus.com/pitchfx/bpm/",
-            "draftbp": "https://legacy.baseballprospectus.com/fantasy/scoresheet/draftaid/"
-        },
-        "ba": {
-            "ba": "https://www.baseballamerica.com/statistics/",
-            "top100": "https://www.baseballamerica.com/rankings/2020-top-100-prospects/",
-            "by team": "https://www.baseballamerica.com/stories/2020-mlb-top-prospects-for-every-team/"
-        },
         "scores": {
-            "scores": "http://newsday.sportsdirectinc.com/sports-scores/Baseball-Scores-Matchups.aspx",
+            "espn scores": "http://espn.go.com/mlb/scoreboard",
             "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/",
-            "espn scores": "http://espn.go.com/mlb/scoreboard"
+            "mlb scores": "https://www.mlb.com/scores",
+            "lineups": "https://www.mlb.com/starting-lineups/",
+            "probables": "https://www.mlb.com/probable-pitchers/",
+            
         },
         "mlb.com": {
-            "mlb.com": "http://mlb.mlb.com/",
-            "tv": "http://m.mlb.com/tv/",
-            "net": "http://m.mlb.com/network/live?mso_id=Verizon"
+            "mlb.com": "http://mlb.com/",
+            "tv": "https://www.mlb.com/tv?&affiliateId=mlbMENUtv"
         },
         "athletic": {
             "athletic": "https://theathletic.com/mlb/",
             "fantasy": "https://theathletic.com/fantasy-baseball/",
-            "twitter list": "https://mobile.twitter.com/oiler/lists/mlb-beat"
+            "twitter list": "https://mobile.twitter.com/oiler/lists/mlb-beat",
+            "eno": "https://theathletic.com/author/eno-sarris/",
+            "kl": "https://theathletic.com/author/keith-law/"
+        },
+        "prospects": {
+            "klaw": "https://theathletic.com/5245693/2024/02/05/top-100-mlb-prospects-2024-keith-law/",
+            "espn": "https://www.espn.com/mlb/insider/insider/story/_/id/39420988/top-100-mlb-prospects-list-2024-kiley-mcdaniel-jackson-holliday-jackson-chourio",
+            "ba": "https://www.baseballamerica.com/rankings/2024-top-100-prospects/",
+            "mlb": "https://www.mlb.com/prospects/top100/",
+            "draft23": "https://theathletic.com/4584350/2023/07/06/mlb-draft-ranking-prospects-2023-crews-law/",
         },
         "depth charts": {
-            "order": "https://www.rosterresource.com/mlb-roster-grid/#projected-order",
-            "gsheet": "https://docs.google.com/spreadsheets/d/14Tbz1P4DhsG9E9dtuxhkpHu9f-ByAUfvBsnJCAmf9h0/",
-            "single team": "https://www.rosterresource.com/mlb-tampa-bay-rays/",
-            "mld depth charts": "http://mlbdepthcharts.com"
-        },
-        "lineups": {
-            "rosters": "https://docs.google.com/spreadsheets/d/14Tbz1P4DhsG9E9dtuxhkpHu9f-ByAUfvBsnJCAmf9h0/",
-            "prospects": "https://docs.google.com/spreadsheets/d/19mmNX9fjbuLOtr8Ayw8GSeyCIvvY9IEExJfZcBYCrA4/",
-            "drafts": "https://docs.google.com/spreadsheets/d/1DW0EDwsAUBpdwrEfTd2f8FBxqB9Iueki9DgE_bUGibk/"
+            "order": "https://www.fangraphs.com/roster-resource/depth-charts/rays"
         },
         "yahoo fantasy": {
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/46877/1",
-            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/1276/8",
-            "vigi": "https://baseball.fantasysports.yahoo.com/b1/2668/5"
+            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/38777/1",
+            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/1587/10",
+            "juno": "https://baseball.fantasysports.yahoo.com/b1/1339/14",
+            "vigi": "https://baseball.fantasysports.yahoo.com/b1/1309/5"
         },
         "espn": {
             "espn": "http://www.espn.com/fantasy/baseball/",
@@ -47,17 +41,11 @@
             "hhm": "https://fantasy.espn.com/baseball/team?leagueId=2779322&teamId=7",
             "sand": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8"
         },
-        "cbs": {
-            "cbs m": "https://m-abl.baseball.cbssports.com/",
-            "galaxy": "http://agalaxyfarfaraway.baseball.cbssports.com/teams",
-            "sandlot": "http://thesandlot1519339382.baseball.cbssports.com/teams"
-        },
         "uandi docs": {
             "folder": "https://drive.google.com/drive/folders/1qaFPkSGn37_reekPmddNHWiNZIAlKln0",
             "tt": "https://docs.google.com/spreadsheets/d/1LmxYxzllfn4nsqx6ocKrt-JElCSQmQMEYcCI9zTJt0k/edit#gid=2054307044",
             "compendium": "https://docs.google.com/spreadsheets/d/1tYsDNB1KOIyeJsSln62kSAXzXTWEywZlMDHe66OmqCQ/edit#gid=861683482"
         },
-        "glxy hist": "https://docs.google.com/spreadsheets/d/10mkDrhdmAtziZz0naDUPlVl337chkwghc3UQne8T4YQ/edit?ts=5a9833a9#gid=948970976",
         "vigilante": {
             "vigbds": "http://vbdynasty.proboards.com/",
             "slack": "https://app.slack.com/client/TFES8AMFG/CFCS12ECR",
@@ -68,18 +56,11 @@
             "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
             "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
         },
-        "mlb fantasy": "http://www.mlb.com/mlb/fantasy/news/",
-        "fox outside": "http://www.foxsports.com/mlb/just-a-bit-outside",
-        "nbc radio": "http://nbcsportsradio.com/",
-        "rotoworld": "https://www.nbcsportsedge.com/baseball/mlb/player-news",
-        "ba 100mph": "http://www.baseballamerica.com/viewpoint/ask-ba-minors-100-mph-pitchers/#RkbRm0R5JKQVy4wL.97",
-        "savant": "http://baseballsavant.com/index.php",
-        "catcherSBs": "http://espn.go.com/mlb/stats/fielding/_/position/c/sort/catcherStolenBasesAllowed/qualified/false/order/false",
-        "SPs": "http://mlb.mlb.com/news/probable_pitchers/?tcid=nav_mlb_schedule",
-        "park factor": "http://espn.go.com/mlb/stats/parkfactor",
-        "covers matchups": "http://www.covers.com/sports/mlb/matchups",
-        "fangraphs": "http://www.fangraphs.com/",
-        "ballsandstrikes": "https://ballsandstrikes.co/",
-        "sdb mlb": "https://sportsdatabase.com/mlb/query"
+        "savant": "https://baseballsavant.mlb.com/",
+        "cc": "https://craigcalcaterra.com/cup-of-coffee-newsletter/",
+        "nbc": "https://www.nbcsports.com/fantasy/baseball/player-news",
+        "closers": "https://www.espn.com/fantasy/baseball/flb/story?page=REcloserorgchart",
+
+        "fangraphs": "http://www.fangraphs.com/"
     }
 }
