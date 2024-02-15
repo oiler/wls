@@ -5,8 +5,7 @@
             "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/",
             "mlb scores": "https://www.mlb.com/scores",
             "lineups": "https://www.mlb.com/starting-lineups/",
-            "probables": "https://www.mlb.com/probable-pitchers/",
-            
+            "probables": "https://www.mlb.com/probable-pitchers/"            
         },
         "mlb.com": {
             "mlb.com": "http://mlb.com/",
