@@ -1,134 +1,109 @@
 { 
     "links" : {
-        "mlb.com": {
-            "mlb.com": "http://mlb.com/",
-            "tv": "https://www.mlb.com/tv?&affiliateId=mlbMENUtv"
-        },
-
-        "all scores": {
-            "scores": "https://www.mlb.com/scores",
-            "espn scores": "http://espn.go.com/mlb/scoreboard",
-            "yahoo scores": "http://sports.yahoo.com/mlb/scoreboard/"
-        },
-        "lineups": "https://www.mlb.com/starting-lineups/",
-        "probables": "https://www.mlb.com/probable-pitchers/",
-        "all athletic": {
-            "ath": "https://theathletic.com/mlb/",
-            "fantasy": "https://theathletic.com/fantasy-baseball/",
-            "twitter list": "https://mobile.twitter.com/oiler/lists/mlb-beat",
-            "eno": "https://theathletic.com/author/eno-sarris/",
-            "kl": "https://theathletic.com/author/keith-law/"
-        },
-        "all prospects": {
-            "prsp": "https://www.mlb.com/prospects/top100/",
-            "klaw": "https://theathletic.com/5245693/2024/02/05/top-100-mlb-prospects-2024-keith-law/",
-            "espn": "https://www.espn.com/mlb/insider/insider/story/_/id/39420988/top-100-mlb-prospects-list-2024-kiley-mcdaniel-jackson-holliday-jackson-chourio",
-            "ba": "https://www.baseballamerica.com/rankings/2024-top-100-prospects/",
-            "draft23": "https://theathletic.com/4584350/2023/07/06/mlb-draft-ranking-prospects-2023-crews-law/"
-        },
-        "yahoo fantasy": {
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/38777/1",
-            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/1587/10",
-            "juno": "https://baseball.fantasysports.yahoo.com/b1/1339/14",
-            "vigi": "https://baseball.fantasysports.yahoo.com/b1/1309/5"
-        },
-        "espn fantasy": {
-            "espn": "http://www.espn.com/fantasy/baseball/",
-            "uandi": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
-            "hhm": "https://fantasy.espn.com/baseball/team?leagueId=2779322&teamId=7",
-            "sand": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8"
-        },
-        "uandi docs": {
-            "folder": "https://drive.google.com/drive/folders/1qaFPkSGn37_reekPmddNHWiNZIAlKln0",
-            "rookie drafts": "https://drive.google.com/drive/folders/1_dORiXbs3qytCV6-QucaKzay9UTt8G-L",
-            "tt": "https://docs.google.com/spreadsheets/d/1LmxYxzllfn4nsqx6ocKrt-JElCSQmQMEYcCI9zTJt0k/edit#gid=2054307044",
-            "compendium": "https://docs.google.com/spreadsheets/d/1tYsDNB1KOIyeJsSln62kSAXzXTWEywZlMDHe66OmqCQ/edit#gid=861683482"
-        },
-        "vigilante": {
-            "vigbds": "http://vbdynasty.proboards.com/",
-            "slack": "https://app.slack.com/client/TFES8AMFG/CFCS12ECR",
-            "minors": "https://docs.google.com/spreadsheets/d/1wdvY5_-uGts3wgXpyPWN0cxu7LQvzHYyR-ox1aWihds/edit#gid=2"
-        },
-        "find leagues": {
-            "find": "https://www.reddit.com/r/findaleague/search?q=flair_name%3A%22Baseball%22%20roto&restrict_sr=1&sort=new",
-            "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
-            "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
-        },
-        "savant": "https://baseballsavant.mlb.com/",
-        "cc": "https://craigcalcaterra.com/cup-of-coffee-newsletter/",
-        "nbc": "https://www.nbcsports.com/fantasy/baseball/player-news",
-        "closers": "https://www.espn.com/fantasy/baseball/flb/story?page=REcloserorgchart",
-        "baseballamerica": "https://www.baseballamerica.com/players/",
-        "fangraphs": "http://www.fangraphs.com/",
         "teamBAL": { 
-            "bal": "https://www.mlb.com/orioles/news/",
+            "BAL": "https://www.mlb.com/orioles/news/",
             "espnBAL": "https://www.espn.com/mlb/team/schedule/_/name/bal",
             "lawBAL": "https://theathletic.com/5260955/2024/02/12/orioles-2024-top-prospects-keith-law/",
             "baBAL": "https://www.baseballamerica.com/teams/2003-baltimore-orioles/prospects/?season=2024&ranking=preseason",
             "dcBAL": "https://www.fangraphs.com/roster-resource/depth-charts/orioles"
         },
         "teamBOS": { 
-            "bos": "https://www.mlb.com/redsox/news/",
+            "BOS": "https://www.mlb.com/redsox/news/",
             "espnBOS": "https://www.espn.com/mlb/team/schedule/_/name/bos",
             "lawBOS": "https://theathletic.com/5261710/2024/02/12/red-sox-2024-top-prospects-keith-law/",
             "baBOS": "https://www.baseballamerica.com/teams/2004-boston-red-sox/prospects/?season=2024&ranking=preseason",
             "dcBOS": "https://www.fangraphs.com/roster-resource/depth-charts/red-sox"
         },
         "teamNYY": { 
-            "nyy": "https://www.mlb.com/yankees/news/",
+            "NYY": "https://www.mlb.com/yankees/news/",
             "espnNYY": "https://www.espn.com/mlb/team/schedule/_/name/nyy",
             "lawNYY": "https://theathletic.com/5261866/2024/02/12/yankees-2024-top-prospects-keith-law/",
             "baNYY": "https://www.baseballamerica.com/teams/2029-new-york-yankees/prospects/?season=2024&ranking=preseason",
             "dcNYY": "https://www.fangraphs.com/roster-resource/depth-charts/yankees"
         },
         "teamTBA": { 
-            "tba": "https://www.mlb.com/rays/news/",
+            "TBA": "https://www.mlb.com/rays/news/",
             "espnTBA": "https://www.espn.com/mlb/team/schedule/_/name/tb",
             "lawTBA": "https://theathletic.com/5262256/2024/02/12/rays-2024-top-prospects-keith-law/",
             "baTBA": "https://www.baseballamerica.com/teams/2021-tampa-bay-rays/prospects/?season=2024&ranking=preseason",
             "dcTBA": "https://www.fangraphs.com/roster-resource/depth-charts/rays"
         },
         "teamTOR": { 
-            "tor": "https://www.mlb.com/bluejays/news/",
+            "TOR": "https://www.mlb.com/bluejays/news/",
             "espnTOR": "https://www.espn.com/mlb/team/schedule/_/name/tor",
             "lawTOR": "https://theathletic.com/5262403/2024/02/12/blue-jays-2024-top-prospects-keith-law/",
             "baTOR": "https://www.baseballamerica.com/teams/2023-toronto-blue-jays/prospects/?season=2024&ranking=preseason",
             "dcTOR": "https://www.fangraphs.com/roster-resource/depth-charts/blue-jays"
         },
         "teamCWS": { 
-            "cws": "https://www.mlb.com/whitesox/news/",
+            "CWS": "https://www.mlb.com/whitesox/news/",
             "espnCWS": "https://www.espn.com/mlb/team/schedule/_/name/chw",
             "lawCWS": "https://theathletic.com/5257706/2024/02/13/white-sox-2024-top-prospects-keith-law/",
             "baCWS": "https://www.baseballamerica.com/teams/2027-chicago-white-sox/prospects/?season=2024&ranking=preseason",
             "dcCWS": "https://www.fangraphs.com/roster-resource/depth-charts/white-sox"
         },
         "teamCLE": { 
-            "cle": "https://www.mlb.com/guardians/news/",
+            "CLE": "https://www.mlb.com/guardians/news/",
             "espnCLE": "https://www.espn.com/mlb/team/schedule/_/name/cle",
             "lawCLE": "https://theathletic.com/5258696/2024/02/13/guardians-2024-top-prospects-keith-law/",
             "baCLE": "https://www.baseballamerica.com/teams/2007-cleveland-guardians/prospects/?season=2024&ranking=preseason",
             "dcCLE": "https://www.fangraphs.com/roster-resource/depth-charts/guardians"
         },
         "teamDET": { 
-            "det": "https://www.mlb.com/tigers/news/",
+            "DET": "https://www.mlb.com/tigers/news/",
             "espnDET": "https://www.espn.com/mlb/team/schedule/_/name/det",
             "lawDET": "https://theathletic.com/5259377/2024/02/13/detroit-tigers-2024-top-20-prospects-keith-law/",
             "baDET": "https://www.baseballamerica.com/teams/2009-detroit-tigers/prospects/?season=2024&ranking=preseason",
             "dcDET": "https://www.fangraphs.com/roster-resource/depth-charts/tigers"
         },
         "teamKCR": { 
-            "kcr": "https://www.mlb.com/royals/news/",
+            "KCR": "https://www.mlb.com/royals/news/",
             "espnKCR": "https://www.espn.com/mlb/team/schedule/_/name/kc",
             "lawKCR": "https://theathletic.com/5259527/2024/02/13/royals-2024-top-20-prospects-keith-law/",
             "baKCR": "https://www.baseballamerica.com/teams/2011-kansas-city-royals/prospects/?season=2024&ranking=preseason",
             "dcKCR": "https://www.fangraphs.com/roster-resource/depth-charts/royals"
         },
         "teamMIN": { 
-            "min": "https://www.mlb.com/twins/news/",
+            "MIN": "https://www.mlb.com/twins/news/",
             "espnMIN": "https://www.espn.com/mlb/team/schedule/_/name/min",
             "lawMIN": "https://theathletic.com/5260735/2024/02/13/twins-2024-top-prospects-keith-law/",
             "baMIN": "https://www.baseballamerica.com/teams/2024-minnesota-twins/prospects/?season=2024&ranking=preseason",
             "dcMIN": "https://www.fangraphs.com/roster-resource/depth-charts/twins"
+        },
+        "teamHOU": { 
+            "HOU": "https://www.mlb.com/astros/news/",
+            "espnHOU": "https://www.espn.com/mlb/team/schedule/_/name/hou",
+            "lawHOU": "https://theathletic.com/5263881/2024/02/14/astros-2024-top-prospects-keith-law/",
+            "baHOU": "https://www.baseballamerica.com/teams/2010-houston-astros/prospects/?season=2024&ranking=preseason",
+            "dcHOU": "https://www.fangraphs.com/roster-resource/depth-charts/astros"
+        },
+        "teamLAA": { 
+            "LAA": "https://www.mlb.com/angels/news/",
+            "espnLAA": "https://www.espn.com/mlb/team/schedule/_/name/laa",
+            "lawLAA": "https://theathletic.com/5263688/2024/02/14/angels-2024-top-prospects-keith-law/",
+            "baLAA": "https://www.baseballamerica.com/teams/2001-los-angeles-angels/prospects/?season=2024&ranking=preseason",
+            "dcLAA": "https://www.fangraphs.com/roster-resource/depth-charts/angels"
+        },
+        "teamOAK": { 
+            "OAK": "https://www.mlb.com/athletics/news/",
+            "espnOAK": "https://www.espn.com/mlb/team/schedule/_/name/oak",
+            "lawOAK": "https://theathletic.com/5264053/2024/02/14/oakland-athletics-2024-top-prospects-keith-law/",
+            "baOAK": "https://www.baseballamerica.com/teams/2015-oakland-athletics/prospects/?season=2024&ranking=preseason",
+            "dcOAK": "https://www.fangraphs.com/roster-resource/depth-charts/athletics"
+        },
+        "teamSEA": { 
+            "SEA": "https://www.mlb.com/mariners/news/",
+            "espnSEA": "https://www.espn.com/mlb/team/schedule/_/name/sea",
+            "lawSEA": "https://theathletic.com/5273845/2024/02/14/mariners-2024-top-prospects-keith-law/",
+            "baSEA": "https://www.baseballamerica.com/teams/2018-seattle-mariners/prospects/?season=2024&ranking=preseason",
+            "dcSEA": "https://www.fangraphs.com/roster-resource/depth-charts/mariners"
+        },
+        "teamTEX": { 
+            "TEX": "https://www.mlb.com/rangers/news/",
+            "espnTEX": "https://www.espn.com/mlb/team/schedule/_/name/tex",
+            "lawTEX": "https://theathletic.com/5264519/2024/02/14/texas-rangers-2024-top-prospects-keith-law/",
+            "baTEX": "https://www.baseballamerica.com/teams/2022-texas-rangers/prospects/?season=2024&ranking=preseason",
+            "dcTEX": "https://www.fangraphs.com/roster-resource/depth-charts/rangers"
         }
     }
 }
