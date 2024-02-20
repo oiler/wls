@@ -49,6 +49,10 @@
             "slack": "https://app.slack.com/client/TFES8AMFG/CFCS12ECR",
             "minors": "https://docs.google.com/spreadsheets/d/1wdvY5_-uGts3wgXpyPWN0cxu7LQvzHYyR-ox1aWihds/edit#gid=2"
         },
+        "overbidders": {
+            "overbid": "https://docs.google.com/spreadsheets/d/1Z8HgWEfkXRL-UHL2DZTYTIK7SSIUjn-iwABQyTnzDgU/edit#gid=0",
+            "rules ob": "https://docs.google.com/document/d/1ydF6a5jokNiyNV7sTnqYl-1-ovIb91OYQKDJkDwFTZU/edit",
+        },
         "find leagues": {
             "find": "https://www.reddit.com/r/findaleague/search?q=flair_name%3A%22Baseball%22%20roto&restrict_sr=1&sort=new",
             "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
@@ -58,77 +62,7 @@
         "cc": "https://craigcalcaterra.com/cup-of-coffee-newsletter/",
         "nbc": "https://www.nbcsports.com/fantasy/baseball/player-news",
         "closers": "https://www.espn.com/fantasy/baseball/flb/story?page=REcloserorgchart",
-        "baseballamerica": "https://www.baseballamerica.com/players/",
         "fangraphs": "http://www.fangraphs.com/",
-        "teamBAL": { 
-            "bal": "https://www.mlb.com/orioles/news/",
-            "espnBAL": "https://www.espn.com/mlb/team/schedule/_/name/bal",
-            "lawBAL": "https://theathletic.com/5260955/2024/02/12/orioles-2024-top-prospects-keith-law/",
-            "baBAL": "https://www.baseballamerica.com/teams/2003-baltimore-orioles/prospects/?season=2024&ranking=preseason",
-            "dcBAL": "https://www.fangraphs.com/roster-resource/depth-charts/orioles"
-        },
-        "teamBOS": { 
-            "bos": "https://www.mlb.com/redsox/news/",
-            "espnBOS": "https://www.espn.com/mlb/team/schedule/_/name/bos",
-            "lawBOS": "https://theathletic.com/5261710/2024/02/12/red-sox-2024-top-prospects-keith-law/",
-            "baBOS": "https://www.baseballamerica.com/teams/2004-boston-red-sox/prospects/?season=2024&ranking=preseason",
-            "dcBOS": "https://www.fangraphs.com/roster-resource/depth-charts/red-sox"
-        },
-        "teamNYY": { 
-            "nyy": "https://www.mlb.com/yankees/news/",
-            "espnNYY": "https://www.espn.com/mlb/team/schedule/_/name/nyy",
-            "lawNYY": "https://theathletic.com/5261866/2024/02/12/yankees-2024-top-prospects-keith-law/",
-            "baNYY": "https://www.baseballamerica.com/teams/2029-new-york-yankees/prospects/?season=2024&ranking=preseason",
-            "dcNYY": "https://www.fangraphs.com/roster-resource/depth-charts/yankees"
-        },
-        "teamTBA": { 
-            "tba": "https://www.mlb.com/rays/news/",
-            "espnTBA": "https://www.espn.com/mlb/team/schedule/_/name/tb",
-            "lawTBA": "https://theathletic.com/5262256/2024/02/12/rays-2024-top-prospects-keith-law/",
-            "baTBA": "https://www.baseballamerica.com/teams/2021-tampa-bay-rays/prospects/?season=2024&ranking=preseason",
-            "dcTBA": "https://www.fangraphs.com/roster-resource/depth-charts/rays"
-        },
-        "teamTOR": { 
-            "tor": "https://www.mlb.com/bluejays/news/",
-            "espnTOR": "https://www.espn.com/mlb/team/schedule/_/name/tor",
-            "lawTOR": "https://theathletic.com/5262403/2024/02/12/blue-jays-2024-top-prospects-keith-law/",
-            "baTOR": "https://www.baseballamerica.com/teams/2023-toronto-blue-jays/prospects/?season=2024&ranking=preseason",
-            "dcTOR": "https://www.fangraphs.com/roster-resource/depth-charts/blue-jays"
-        },
-        "teamCWS": { 
-            "cws": "https://www.mlb.com/whitesox/news/",
-            "espnCWS": "https://www.espn.com/mlb/team/schedule/_/name/chw",
-            "lawCWS": "https://theathletic.com/5257706/2024/02/13/white-sox-2024-top-prospects-keith-law/",
-            "baCWS": "https://www.baseballamerica.com/teams/2027-chicago-white-sox/prospects/?season=2024&ranking=preseason",
-            "dcCWS": "https://www.fangraphs.com/roster-resource/depth-charts/white-sox"
-        },
-        "teamCLE": { 
-            "cle": "https://www.mlb.com/guardians/news/",
-            "espnCLE": "https://www.espn.com/mlb/team/schedule/_/name/cle",
-            "lawCLE": "https://theathletic.com/5258696/2024/02/13/guardians-2024-top-prospects-keith-law/",
-            "baCLE": "https://www.baseballamerica.com/teams/2007-cleveland-guardians/prospects/?season=2024&ranking=preseason",
-            "dcCLE": "https://www.fangraphs.com/roster-resource/depth-charts/guardians"
-        },
-        "teamDET": { 
-            "det": "https://www.mlb.com/tigers/news/",
-            "espnDET": "https://www.espn.com/mlb/team/schedule/_/name/det",
-            "lawDET": "https://theathletic.com/5259377/2024/02/13/detroit-tigers-2024-top-20-prospects-keith-law/",
-            "baDET": "https://www.baseballamerica.com/teams/2009-detroit-tigers/prospects/?season=2024&ranking=preseason",
-            "dcDET": "https://www.fangraphs.com/roster-resource/depth-charts/tigers"
-        },
-        "teamKCR": { 
-            "kcr": "https://www.mlb.com/royals/news/",
-            "espnKCR": "https://www.espn.com/mlb/team/schedule/_/name/kc",
-            "lawKCR": "https://theathletic.com/5259527/2024/02/13/royals-2024-top-20-prospects-keith-law/",
-            "baKCR": "https://www.baseballamerica.com/teams/2011-kansas-city-royals/prospects/?season=2024&ranking=preseason",
-            "dcKCR": "https://www.fangraphs.com/roster-resource/depth-charts/royals"
-        },
-        "teamMIN": { 
-            "min": "https://www.mlb.com/twins/news/",
-            "espnMIN": "https://www.espn.com/mlb/team/schedule/_/name/min",
-            "lawMIN": "https://theathletic.com/5260735/2024/02/13/twins-2024-top-prospects-keith-law/",
-            "baMIN": "https://www.baseballamerica.com/teams/2024-minnesota-twins/prospects/?season=2024&ranking=preseason",
-            "dcMIN": "https://www.fangraphs.com/roster-resource/depth-charts/twins"
-        }
+        "baseballamerica": "https://www.baseballamerica.com/players/"        
     }
 }
