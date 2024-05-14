@@ -107,6 +107,78 @@
             "lawTEX": "https://theathletic.com/5264519/2024/02/14/texas-rangers-2024-top-prospects-keith-law/",
             "baTEX": "https://www.baseballamerica.com/teams/2022-texas-rangers/prospects/?season=2024&ranking=preseason",
             "dcTEX": "https://www.fangraphs.com/roster-resource/depth-charts/rangers"
+        },
+        "NL EAST": "",
+        "teamATL": { 
+            "ATL": "https://www.mlb.com/braves/news/",
+            "espnATL": "https://www.espn.com/mlb/team/schedule/_/name/atl",
+            "lawATL": "https://theathletic.com/5265739/2024/02/15/atlanta-2024-top-20-prospects-keith-law/",
+            "baATL": "https://www.baseballamerica.com/teams/2026-atlanta-braves/prospects/?season=2024&ranking=preseason",
+            "dcATL": "https://www.fangraphs.com/roster-resource/depth-charts/braves"
+        },
+        "teamMIA": { 
+            "MIA": "https://www.mlb.com/marlins/news/",
+            "espnMIA": "https://www.espn.com/mlb/team/schedule/_/name/mia",
+            "lawMIA": "https://theathletic.com/5265932/2024/02/15/marlins-2024-top-prospects-keith-law/",
+            "baMIA": "https://www.baseballamerica.com/teams/2028-miami-marlins/prospects/?season=2024&ranking=preseason",
+            "dcMIA": "https://www.fangraphs.com/roster-resource/depth-charts/marlins"
+        },
+        "teamNYM": { 
+            "NYM": "https://www.mlb.com/mets/news/",
+            "espnNYM": "https://www.espn.com/mlb/team/schedule/_/name/nym",
+            "lawNYM": "https://theathletic.com/5266003/2024/02/15/mets-2024-top-prospects-keith-law/",
+            "baNYM": "https://www.baseballamerica.com/teams/2014-new-york-mets/prospects/?season=2024&ranking=preseason",
+            "dcNYM": "https://www.fangraphs.com/roster-resource/depth-charts/mets"
+        },
+        "teamPHI": { 
+            "PHI": "https://www.mlb.com/phillies/news/",
+            "espnPHI": "https://www.espn.com/mlb/team/schedule/_/name/phi",
+            "lawPHI": "https://theathletic.com/5270132/2024/02/15/phillies-2024-top-prospects-keith-law/",
+            "baPHI": "https://www.baseballamerica.com/teams/2025-philadelphia-phillies/prospects/?season=2024&ranking=preseason",
+            "dcPHI": "https://www.fangraphs.com/roster-resource/depth-charts/phillies"
+        },
+        "teamWSH": { 
+            "WSH": "https://www.mlb.com/nationals/news/",
+            "espnWSH": "https://www.espn.com/mlb/team/schedule/_/name/wsh",
+            "lawWSH": "https://theathletic.com/5270338/2024/02/15/nationals-2024-top-prospects-keith-law/",
+            "baWSH": "https://www.baseballamerica.com/teams/2013-washington-nationals/prospects/?season=2024&ranking=preseason",
+            "dcWSH": "https://www.fangraphs.com/roster-resource/depth-charts/nationals"
+        },
+        "NL CENTRAL": "",
+        "teamATL": { 
+            "ATL": "https://www.mlb.com/braves/news/",
+            "espnATL": "https://www.espn.com/mlb/team/schedule/_/name/atl",
+            "lawATL": "https://theathletic.com/5265739/2024/02/15/atlanta-2024-top-20-prospects-keith-law/",
+            "baATL": "https://www.baseballamerica.com/teams/2026-atlanta-braves/prospects/?season=2024&ranking=preseason",
+            "dcATL": "https://www.fangraphs.com/roster-resource/depth-charts/braves"
+        },
+        "teamMIA": { 
+            "MIA": "https://www.mlb.com/marlins/news/",
+            "espnMIA": "https://www.espn.com/mlb/team/schedule/_/name/mia",
+            "lawMIA": "https://theathletic.com/5265932/2024/02/15/marlins-2024-top-prospects-keith-law/",
+            "baMIA": "https://www.baseballamerica.com/teams/2028-miami-marlins/prospects/?season=2024&ranking=preseason",
+            "dcMIA": "https://www.fangraphs.com/roster-resource/depth-charts/marlins"
+        },
+        "teamNYM": { 
+            "NYM": "https://www.mlb.com/mets/news/",
+            "espnNYM": "https://www.espn.com/mlb/team/schedule/_/name/nym",
+            "lawNYM": "https://theathletic.com/5266003/2024/02/15/mets-2024-top-prospects-keith-law/",
+            "baNYM": "https://www.baseballamerica.com/teams/2014-new-york-mets/prospects/?season=2024&ranking=preseason",
+            "dcNYM": "https://www.fangraphs.com/roster-resource/depth-charts/mets"
+        },
+        "teamPHI": { 
+            "PHI": "https://www.mlb.com/phillies/news/",
+            "espnPHI": "https://www.espn.com/mlb/team/schedule/_/name/phi",
+            "lawPHI": "https://theathletic.com/5270132/2024/02/15/phillies-2024-top-prospects-keith-law/",
+            "baPHI": "https://www.baseballamerica.com/teams/2025-philadelphia-phillies/prospects/?season=2024&ranking=preseason",
+            "dcPHI": "https://www.fangraphs.com/roster-resource/depth-charts/phillies"
+        },
+        "teamWSH": { 
+            "WSH": "https://www.mlb.com/nationals/news/",
+            "espnWSH": "https://www.espn.com/mlb/team/schedule/_/name/wsh",
+            "lawWSH": "https://theathletic.com/5270338/2024/02/15/nationals-2024-top-prospects-keith-law/",
+            "baWSH": "https://www.baseballamerica.com/teams/2013-washington-nationals/prospects/?season=2024&ranking=preseason",
+            "dcWSH": "https://www.fangraphs.com/roster-resource/depth-charts/nationals"
         }
     }
 }
