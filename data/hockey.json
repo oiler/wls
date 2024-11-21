@@ -4,13 +4,17 @@
             "nhl.com": "http://nhl.com",
             "standings": "https://www.nhl.com/standings/2024-11-21/wildcard"
         },
-        "scores": "https://www.espn.com/nhl/scoreboard",
+        "espn": {
+			"scores": "https://www.espn.com/nhl/scoreboard",
+			"edm": "https://www.espn.com/nhl/team/schedule/_/name/edm/edmonton-oilers",
+			"car": "https://www.espn.com/nhl/team/schedule/_/name/car/carolina-hurricanes",
+			"tbl": "https://www.espn.com/nhl/team/schedule/_/name/tb/tampa-bay-lightning"
+		},
         "yahoo fantasy": {
-            "y": "https://hockey.fantasysports.yahoo.com/hockey/2007/12",
+            "yahoo": "https://hockey.fantasysports.yahoo.com/hockey/2007/12",
             "r": "https://hockey.fantasysports.yahoo.com/hockey/79815/8"
         },
         "espnfantasy": "http://fantasy.espn.com/hockey/team?leagueId=17107&teamId=1",
-        
         "rotoworld": "https://www.dailyfaceoff.com/hockey-player-news/",
         "games per week": "https://www.dailyfaceoff.com/nhl-weekly-schedule/",
         "money puck": "http://moneypuck.com/",
