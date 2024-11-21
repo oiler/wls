@@ -2,17 +2,31 @@
     "links" : {
         "pocketcasts": "https://play.pocketcasts.com/new-releases",
         "wnyc": "http://www.wnyc.org/stream/wnyc-fm939/aac.pls",
-        "netflix": "http://netflix.com/",
-        "espn": "http://espn.go.com/watchespn/",
-        "pandora": "http://pandora.com/",
-        "sling": "http://watch.slingbox.com/",
-        "tnt": "http://www.tnt.tv/video/?cid=61779",
-        "colbert report": "http://www.hulu.com/the-colbert-report",
-        "the daily show": "http://www.hulu.com/the-daily-show-with-jon-stewart",
-        "hnic": "http://www.cbc.ca/sports/hockeynightincanada/video/",
         "amazon": "https://www.amazon.com/gp/video/library",
-        "hulu": "http://hulu.com",
-        "hbogo": "http://hbogo.com",
-        "60 minutes": "http://www.cbsnews.com/sections/60minutes/main3415.shtml"
+		"youtube": {
+			"e": "https://www.youtube.com/@edmontonoilers",
+			"s": "https://www.youtube.com/@sportsnet",
+			"c": "https://www.youtube.com/@ColbertLateShow",
+			"p": "https://www.youtube.com/@PBSNewsHour"
+		},        
+		"tailwind": "https://tailwindui.com/components#product-application-ui",
+		"bootstrap": "https://getbootstrap.com/docs/4.1/components/alerts/",
+		"flexbox": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+		"grid": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+		"json viewer": "https://jsonviewer.stack.hu/",
+		"js beautifier": "https://beautifier.io/",
+		"python formatter": "https://codebeautify.org/python-formatter-beautifier",
+		"layoutts": "https://1linelayouts.glitch.me/",
+		"convertstring": "https://www.convertstring.com/",
+		"base64": "https://www.base64decode.org/",
+		"heroicons": "https://heroicons.dev/",
+		"boxicons": "https://boxicons.com/",
+		"remix icons": "https://remixicon.com/",
+		"feather icons": "https://feathericons.com/",
+		"plotly dash": "https://dash.plotly.com/advanced-callbacks",
+		"dash bootstrap": "https://dash-bootstrap-components.opensource.faculty.ai/docs/components/",
+		"claude": "https://claude.ai/",
+		"chatgpt": "https://chatgpt.com/",
+		"gemini": "https://gemini.google.com/app/"
     }
 }
