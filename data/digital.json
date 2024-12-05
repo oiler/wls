@@ -12,6 +12,7 @@
             "javascript": "https://github.com/oiler/notes/blob/master/javascript.md",
             "bash": "https://github.com/oiler/notes/blob/master/bash.md"
         },
+		"wp domains": "https://wordpress.com/domains/manage",
         "slack": {
             "slack": "https://app.slack.com",
             "bp": "https://app.slack.com/client/T033N5Z6Z/C033N5Z79",
