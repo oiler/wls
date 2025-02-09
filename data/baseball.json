@@ -35,8 +35,11 @@
         "espn fantasy": {
             "espn": "http://www.espn.com/fantasy/baseball/",
             "uandi": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
+			"sand": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8",
             "hhm": "https://fantasy.espn.com/baseball/team?leagueId=2779322&teamId=7",
-            "sand": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8"
+			"jj": "https://fantasy.espn.com/baseball/team?leagueId=308871564&teamId=3",
+			"beach": "https://fantasy.espn.com/baseball/team?leagueId=1050748680&teamId=8"
+            
         },
         "uandi docs": {
             "folder": "https://drive.google.com/drive/folders/1qaFPkSGn37_reekPmddNHWiNZIAlKln0",
