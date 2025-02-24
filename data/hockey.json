@@ -14,6 +14,12 @@
             "yahoo": "https://hockey.fantasysports.yahoo.com/hockey/2007/12",
             "r": "https://hockey.fantasysports.yahoo.com/hockey/79815/8"
         },
+		"prospects": {
+			"t100": "https://www.nytimes.com/athletic/6101032/2025/02/11/nhl-2025-prospects-rankings-top-100/",
+			"all": "https://www.nytimes.com/athletic/5919859/2025/01/08/nhl-prospects-rankings-2025/",
+			"tyd": "https://www.nytimes.com/athletic/6101718/2025/02/13/nhl-draft-2025-ranking-wheeler-midseason/",
+			"goalies": "https://www.nytimes.com/athletic/6100990/2025/02/12/nhl-2025-prospects-rankings-top-goalies/"
+		},
         "espnfantasy": "http://fantasy.espn.com/hockey/team?leagueId=17107&teamId=1",
         "rotoworld": "https://www.dailyfaceoff.com/hockey-player-news/",
         "games per week": "https://www.dailyfaceoff.com/nhl-weekly-schedule/",
