@@ -21,14 +21,21 @@
         },
         "all prospects": {
             "prsp": "https://www.mlb.com/prospects/top100/",
-            "klaw": "https://theathletic.com/5245693/2024/02/05/top-100-mlb-prospects-2024-keith-law/",
-            "espn": "https://www.espn.com/mlb/insider/insider/story/_/id/39420988/top-100-mlb-prospects-list-2024-kiley-mcdaniel-jackson-holliday-jackson-chourio",
+            "klaw": "https://www.nytimes.com/athletic/6078454/2025/01/27/top-100-mlb-prospects-2025-keith-law/",
+            "espn": "https://www.espn.com/mlb/insider/story/_/id/43549082/top-100-mlb-prospects-2025-kiley-mcdaniel-roki-sasaki-roman-anthony",
             "ba": "https://www.baseballamerica.com/rankings/2025-top-100-prospects/",
-            "draft23": "https://theathletic.com/4584350/2023/07/06/mlb-draft-ranking-prospects-2023-crews-law/"
+            "draft24": "https://www.nytimes.com/athletic/5622935/2024/07/09/mlb-draft-2024-top-100-prospects-final/",
+			"fypd": "https://www.baseballamerica.com/stories/2025-fypd-top-100-dynasty-fantasy-baseball-rankings/"
         },
+		"all fantasy": {
+			"gdoc": "https://docs.google.com/spreadsheets/d/1TJ5njUDOhffqcMJAb-E5vKPcU9Gq151IVjmsfNU6b8s/edit?gid=1951129212#gid=1951129212",
+			"stuff+": "https://www.nytimes.com/athletic/6128052/2025/02/12/eno-sarris-2025-starting-pitcher-fantasy-rankings-stuff-plus-projections/",
+			"kit": "https://www.nytimes.com/athletic/6129807/2025/02/19/2025-fantasy-baseball-draft-kit-mlb/"
+		},
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/11908/1",
             "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/40533/11",
+			"new": "https://baseball.fantasysports.yahoo.com/b1/2205/13",
             "vigi": "https://baseball.fantasysports.yahoo.com/b1/1893/5"
         },
         "espn fantasy": {
@@ -49,12 +56,8 @@
             "slack": "https://app.slack.com/client/TFES8AMFG/CFCS12ECR",
             "minors": "https://docs.google.com/spreadsheets/d/1wdvY5_-uGts3wgXpyPWN0cxu7LQvzHYyR-ox1aWihds/edit#gid=2"
         },
-        "overbidders": {
-            "overbid": "https://docs.google.com/spreadsheets/d/1Z8HgWEfkXRL-UHL2DZTYTIK7SSIUjn-iwABQyTnzDgU/edit#gid=0",
-            "rules ob": "https://docs.google.com/document/d/1ydF6a5jokNiyNV7sTnqYl-1-ovIb91OYQKDJkDwFTZU/edit"
-        },
         "find leagues": {
-            "find": "https://www.reddit.com/r/findaleague/search?q=flair_name%3A%22Baseball%22%20roto&restrict_sr=1&sort=new",
+            "find": "https://www.reddit.com/r/findaleague/",
             "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
             "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
         },
@@ -63,6 +66,8 @@
         "nbc": "https://www.nbcsports.com/fantasy/baseball/player-news",
         "closers": "https://www.espn.com/fantasy/baseball/flb/story?page=REcloserorgchart",
         "fangraphs": "http://www.fangraphs.com/",
-        "baseballamerica": "https://www.baseballamerica.com/players/"        
+		"fg rays": "https://www.fangraphs.com/roster-resource/depth-charts/rays",
+		"ba teams": "https://www.baseballamerica.com/stories/2025-mlb-farm-system-rankings-for-all-30-teams/",
+        "baseballamerica": "https://www.baseballamerica.com/players/"
     }
 }
