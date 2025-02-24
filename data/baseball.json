@@ -24,7 +24,6 @@
             "klaw": "https://www.nytimes.com/athletic/6078454/2025/01/27/top-100-mlb-prospects-2025-keith-law/",
             "espn": "https://www.espn.com/mlb/insider/story/_/id/43549082/top-100-mlb-prospects-2025-kiley-mcdaniel-roki-sasaki-roman-anthony",
             "ba": "https://www.baseballamerica.com/rankings/2025-top-100-prospects/",
-            "draft24": "https://www.nytimes.com/athletic/5622935/2024/07/09/mlb-draft-2024-top-100-prospects-final/",
 			"fypd": "https://www.baseballamerica.com/stories/2025-fypd-top-100-dynasty-fantasy-baseball-rankings/"
         },
 		"all fantasy": {
@@ -34,15 +33,15 @@
 		},
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/11908/1",
-            "bigsticks": "https://baseball.fantasysports.yahoo.com/b1/40533/11",
+            "big": "https://baseball.fantasysports.yahoo.com/b1/40533/11",
 			"new": "https://baseball.fantasysports.yahoo.com/b1/2205/13",
-            "vigi": "https://baseball.fantasysports.yahoo.com/b1/1893/5"
+            "vig": "https://baseball.fantasysports.yahoo.com/b1/1893/5"
         },
         "espn fantasy": {
             "espn": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
 			"sand": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8",
             "hhm": "https://fantasy.espn.com/baseball/team?leagueId=2779322&teamId=7",
-			"jj": "https://fantasy.espn.com/baseball/team?leagueId=308871564&teamId=3",
+			"jup": "https://fantasy.espn.com/baseball/team?leagueId=308871564&teamId=3",
 			"beach": "https://fantasy.espn.com/baseball/team?leagueId=1050748680&teamId=8‘‘"
         },
         "uandi docs": {
@@ -64,9 +63,11 @@
         "savant": "https://baseballsavant.mlb.com/",
         "cc": "https://craigcalcaterra.com/cup-of-coffee-newsletter/",
         "nbc": "https://www.nbcsports.com/fantasy/baseball/player-news",
-        "closers": "https://www.espn.com/fantasy/baseball/flb/story?page=REcloserorgchart",
+		"news espn": "https://fantasy.espn.com/baseball/playernews",
+        "closers espn": "https://www.espn.com/fantasy/baseball/flb/story?page=REcloserorgchart",
         "fangraphs": "http://www.fangraphs.com/",
 		"fg rays": "https://www.fangraphs.com/roster-resource/depth-charts/rays",
+		"ba news": "https://www.baseballamerica.com/mlb-prospects-wire/",
 		"ba teams": "https://www.baseballamerica.com/stories/2025-mlb-farm-system-rankings-for-all-30-teams/",
         "baseballamerica": "https://www.baseballamerica.com/players/"
     }
