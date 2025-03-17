@@ -34,11 +34,13 @@
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/11908/1",
             "big": "https://baseball.fantasysports.yahoo.com/b1/40533/11",
+            "vig": "https://baseball.fantasysports.yahoo.com/b1/1893/5",
+		},
+		"new yahoo": {
+			"battery": "https://baseball.fantasysports.yahoo.com/b1/112614/10",
 			"eeulers": "https://baseball.fantasysports.yahoo.com/b1/2205/13",
 			"ninja": "https://baseball.fantasysports.yahoo.com/b1/19142/14",
-			"dom": "https://baseball.fantasysports.yahoo.com/b1/1644/5",
-			"west": "https://baseball.fantasysports.yahoo.com/b1/112614/10",
-            "vig": "https://baseball.fantasysports.yahoo.com/b1/1893/5"
+			"dom": "https://baseball.fantasysports.yahoo.com/b1/1644/5"
         },
         "espn fantasy": {
             "espn": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
