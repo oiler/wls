@@ -34,7 +34,9 @@
         "yahoo fantasy": {
             "hcbl": "https://baseball.fantasysports.yahoo.com/b1/11908/1",
             "big": "https://baseball.fantasysports.yahoo.com/b1/40533/11",
-			"new": "https://baseball.fantasysports.yahoo.com/b1/2205/13",
+			"eeulers": "https://baseball.fantasysports.yahoo.com/b1/2205/13",
+			"dom": "https://baseball.fantasysports.yahoo.com/b1/1644/5",
+			"west": "https://baseball.fantasysports.yahoo.com/b1/112614/10",
             "vig": "https://baseball.fantasysports.yahoo.com/b1/1893/5"
         },
         "espn fantasy": {

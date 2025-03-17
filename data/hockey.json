@@ -12,7 +12,8 @@
 		},
         "yahoo fantasy": {
             "yahoo": "https://hockey.fantasysports.yahoo.com/hockey/2007/12",
-            "r": "https://hockey.fantasysports.yahoo.com/hockey/79815/8"
+            "r": "https://hockey.fantasysports.yahoo.com/hockey/79815/8",
+			"d": "https://hockey.fantasysports.yahoo.com/hockey/47228/9"
         },
 		"prospects": {
 			"t100": "https://www.nytimes.com/athletic/6101032/2025/02/11/nhl-2025-prospects-rankings-top-100/",
