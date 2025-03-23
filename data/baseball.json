@@ -65,6 +65,11 @@
             "yahooleague": "https://baseball.fantasysports.yahoo.com/b1/reg/joinleague/private?cl=cash&st=roto&dy=live_auction&dd=all",
             "espnleague": "http://games.espn.com/flb/leaguedirectory?ex_cid=FLB2016_RightRailLater"
         },
+		"ibw": "https://www.imaginarybrickwall.com/",
+		"pitcherlist": "https://pitcherlist.com/",
+		"rotoballer": "https://www.rotoballer.com/player-news?sport=mlb",
+		"dyndugout": "https://www.thedynastydugout.com/",
+		"rotowire": "https://www.rotowire.com/baseball/news.php",
         "savant": "https://baseballsavant.mlb.com/",
         "cc": "https://craigcalcaterra.com/cup-of-coffee-newsletter/",
         "nbc": "https://www.nbcsports.com/fantasy/baseball/player-news",
@@ -74,6 +79,7 @@
 		"fg rays": "https://www.fangraphs.com/roster-resource/depth-charts/rays",
 		"ba news": "https://www.baseballamerica.com/mlb-prospects-wire/",
 		"ba teams": "https://www.baseballamerica.com/stories/2025-mlb-farm-system-rankings-for-all-30-teams/",
+		"baseballprospectus": "https://www.baseballprospectus.com/",
         "baseballamerica": "https://www.baseballamerica.com/players/"
     }
 }
