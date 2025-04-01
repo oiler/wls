@@ -32,15 +32,16 @@
 			"kit": "https://www.nytimes.com/athletic/6129807/2025/02/19/2025-fantasy-baseball-draft-kit-mlb/"
 		},
         "yahoo fantasy": {
-            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/11908/1",
-            "big": "https://baseball.fantasysports.yahoo.com/b1/40533/11",
-            "vig": "https://baseball.fantasysports.yahoo.com/b1/1893/5"
+            
+            "pel": "https://baseball.fantasysports.yahoo.com/b1/40533/11",
+			"eeulers": "https://baseball.fantasysports.yahoo.com/b1/2205/13",
+			"battery": "https://baseball.fantasysports.yahoo.com/b1/112614/10",
+			"dom": "https://baseball.fantasysports.yahoo.com/b1/1644/5"
 		},
 		"new yahoo": {
-			"battery": "https://baseball.fantasysports.yahoo.com/b1/112614/10",
-			"eeulers": "https://baseball.fantasysports.yahoo.com/b1/2205/13",
-			"ninja": "https://baseball.fantasysports.yahoo.com/b1/19142/14",
-			"dom": "https://baseball.fantasysports.yahoo.com/b1/1644/5"
+			"hcbl": "https://baseball.fantasysports.yahoo.com/b1/11908/1",
+			"vig": "https://baseball.fantasysports.yahoo.com/b1/1893/5",
+			"ninja": "https://baseball.fantasysports.yahoo.com/b1/19142/14"
         },
         "espn fantasy": {
             "espn": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
