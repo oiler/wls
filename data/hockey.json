@@ -17,11 +17,7 @@
         },
 		"prospects": {
 			"wheeler": "https://www.nytimes.com/athletic/author/scott-wheeler/",
-			"pronman": "https://www.nytimes.com/athletic/author/corey-pronman/",
-			"t100": "https://www.nytimes.com/athletic/6101032/2025/02/11/nhl-2025-prospects-rankings-top-100/",
-			"all": "https://www.nytimes.com/athletic/5919859/2025/01/08/nhl-prospects-rankings-2025/",
-			"tyd": "https://www.nytimes.com/athletic/6101718/2025/02/13/nhl-draft-2025-ranking-wheeler-midseason/",
-			"goalies": "https://www.nytimes.com/athletic/6100990/2025/02/12/nhl-2025-prospects-rankings-top-goalies/"
+			"pronman": "https://www.nytimes.com/athletic/author/corey-pronman/"
 		},
 		"prospects jul25": "https://www.nytimes.com/athletic/6469634/2025/07/14/nhl-top-prospects-ranking-2025-schaefer/",
 		"goalies jul25": "https://www.nytimes.com/athletic/6469707/2025/07/15/nhl-goalie-prospects-rankings-summer-2025/",
