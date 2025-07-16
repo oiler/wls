@@ -12,6 +12,9 @@
         },
         "lineups": "https://www.mlb.com/starting-lineups/",
         "probables": "https://www.mlb.com/probable-pitchers/",
+		"ath dynasty": "https://www.nytimes.com/athletic/6161816/2025/03/03/dynasty-rankings-fantasy-baseball-2025/",
+		"ath SPs": "https://www.nytimes.com/athletic/6466635/2025/07/08/fantasy-baseball-starting-pitching-ranks-second-half-2025/",
+		"ba dynasty": "https://www.baseballamerica.com/stories/top-500-fantasy-baseball-dynasty-rankings-for-2025/",
         "all athletic": {
             "ath": "https://theathletic.com/mlb/",
             "fantasy": "https://theathletic.com/fantasy-baseball/",
