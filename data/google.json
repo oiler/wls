@@ -34,6 +34,8 @@
         "news dash": "https://partnerdash.google.com/partnerdash/d/news",
         "two factor": "https://accounts.google.com/IssuedAuthSubTokens",
         "apps dash": "https://admin.google.com/AdminHome",
+		"notebooklm": "https://notebooklm.google.com/",
+		"gemini": "https://gemini.google.com/app",
         "dash": "https://www.google.com/dashboard/b/0/?hl=en-US&pli=1"
     }
 }
