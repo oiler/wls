@@ -11,9 +11,9 @@
 			"tbl": "https://www.espn.com/nhl/team/schedule/_/name/tb/tampa-bay-lightning"
 		},
         "yahoo fantasy": {
-            "yahoo": "https://hockey.fantasysports.yahoo.com/hockey/2007/12",
-            "r": "https://hockey.fantasysports.yahoo.com/hockey/79815/8",
-			"d": "https://hockey.fantasysports.yahoo.com/hockey/47228/9"
+            "yahoo": "https://hockey.fantasysports.yahoo.com/hockey/1260/5",
+            "h": "https://hockey.fantasysports.yahoo.com/hockey/11876/12",
+			"s": "https://hockey.fantasysports.yahoo.com/hockey/44353/8"
         },
 		"prospects": {
 			"wheeler": "https://www.nytimes.com/athletic/author/scott-wheeler/",
