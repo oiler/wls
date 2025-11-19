@@ -56,7 +56,10 @@
         "hellofax": "http://hellofax.com",
         "harvest": "https://foxlab.harvestapp.com/invoices?tab=open",
         "trillian": "http://www.trillian.im/chat",
-        "pantheon": "https://dashboard.getpantheon.com/",
+        "pantheon": { 
+			"panth": "https://dashboard.getpantheon.com/",
+			"fdl": "https://dashboard.pantheon.io/sites/dc4d6b13-a579-4925-b253-78efb0c786e3"
+		},
         "photopea": "https://www.photopea.com/",
         "csstricks": "https://css-tricks.com/snippets/sass/",
         "trello": {
