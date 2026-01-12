@@ -2,6 +2,11 @@
     "links" : {
 		"wake ice": "https://apps.daysmartrecreation.com/dash/x/#/online/polarice/calendar?location=1&event_type=17&end=2024-12-31",
 		"cary ice": "https://apps.daysmartrecreation.com/dash/x/#/online/polarice/calendar?location=2&event_type=17&end=2024-12-31",
+		"hockey": {
+			"shark": "https://apps.daysmartrecreation.com/dash/x/#/online/polarice/teams/13791",
+			"chiefs": "https://apps.daysmartrecreation.com/dash/x/#/online/polarice/teams/13734",
+			"babs": "https://babshockey.com/"
+		},
         "yahoo": "https://mail.yahoo.com",
         "getrssfeed": "http://getrssfeed.com/",
         "wnyc": "http://www.wnyc.org/audio/other-formats/",
