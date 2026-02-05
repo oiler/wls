@@ -13,7 +13,7 @@
         "lineups": "https://www.mlb.com/starting-lineups/",
         "probables": "https://www.mlb.com/probable-pitchers/",
 		"ath dynasty": "https://www.nytimes.com/athletic/6161816/2025/03/03/dynasty-rankings-fantasy-baseball-2025/",
-		"ath SPs": "https://www.nytimes.com/athletic/6466635/2025/07/08/fantasy-baseball-starting-pitching-ranks-second-half-2025/",
+		"ath SPs": "https://www.nytimes.com/athletic/7010771/2026/02/03/mlb-starting-pitcher-rankings-2026-fantasy-baseball/",
 		"ba dynasty": "https://www.baseballamerica.com/stories/top-500-fantasy-baseball-dynasty-rankings-for-2025/",
         "all athletic": {
             "ath": "https://theathletic.com/mlb/",
@@ -24,10 +24,11 @@
         },
         "all prospects": {
             "prsp": "https://www.mlb.com/prospects/top100/",
-            "klaw": "https://www.nytimes.com/athletic/6078454/2025/01/27/top-100-mlb-prospects-2025-keith-law/",
-            "espn": "https://www.espn.com/mlb/insider/story/_/id/43549082/top-100-mlb-prospects-2025-kiley-mcdaniel-roki-sasaki-roman-anthony",
-            "ba": "https://www.baseballamerica.com/rankings/2025-top-100-prospects/",
-			"fypd": "https://www.baseballamerica.com/stories/2025-fypd-top-100-dynasty-fantasy-baseball-rankings/"
+            "klaw": "https://www.nytimes.com/athletic/6985939/2026/01/26/top-mlb-prospects-2026-keith-law-konnor-griffin/",
+			"lk": "file:///Users/jrf1039/Downloads/klaw-100-2026-basic.html",
+            "espn": "https://www.espn.com/mlb/story/_/id/47684202/top-100-mlb-prospects-2026-kiley-mcdaniel-konnor-griffin-kevin-mcgonigle-jesus-made",
+            "ba": "https://www.baseballamerica.com/rankings/2026-top-100-prospects/",
+			"fypd": "https://www.baseballamerica.com/stories/2026-fypd-top-100-dynasty-fantasy-baseball-rankings/"
         },
 		"all fantasy": {
 			"gdoc": "https://docs.google.com/spreadsheets/d/1TJ5njUDOhffqcMJAb-E5vKPcU9Gq151IVjmsfNU6b8s/edit?gid=1951129212#gid=1951129212",
@@ -35,17 +36,11 @@
 			"kit": "https://www.nytimes.com/athletic/6129807/2025/02/19/2025-fantasy-baseball-draft-kit-mlb/"
 		},
         "yahoo fantasy": {
-            
-            "pel": "https://baseball.fantasysports.yahoo.com/b1/40533/11",
-			"eeulers": "https://baseball.fantasysports.yahoo.com/b1/2205/13",
-			"battery": "https://baseball.fantasysports.yahoo.com/b1/112614/10",
-			"dom": "https://baseball.fantasysports.yahoo.com/b1/1644/5"
+            "hcbl": "https://baseball.fantasysports.yahoo.com/b1/22279/1",
+            "pel": "https://baseball.fantasysports.yahoo.com/b1/31201/10",
+			"vig": "https://baseball.fantasysports.yahoo.com/b1/3453/6",
+			"dom": "https://baseball.fantasysports.yahoo.com/b1/1738/10"
 		},
-		"new yahoo": {
-			"hcbl": "https://baseball.fantasysports.yahoo.com/b1/11908/1",
-			"vig": "https://baseball.fantasysports.yahoo.com/b1/1893/5",
-			"ninja": "https://baseball.fantasysports.yahoo.com/b1/19142/14"
-        },
         "espn fantasy": {
             "espn": "http://fantasy.espn.com/baseball/team?leagueId=5983&teamId=3",
 			"sand": "https://fantasy.espn.com/baseball/team?leagueId=20456&teamId=8",
