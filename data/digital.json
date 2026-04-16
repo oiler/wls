@@ -71,6 +71,7 @@
             "foxlabs": "https://trello.com/foxlaboratory"
         },
         "lambda": "https://s3.amazonaws.com/oiler-test/audio.mp3",
+		"mrdns": "https://mrdns.com/",
         "my ip": "https://www.google.com/search?q=my+ip"
     }
 }
