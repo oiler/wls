@@ -40,7 +40,8 @@
 		"salvios": "https://salviospizza.hungerrush.com/Order/OrderType",
 		"dohertys": "https://order.toasttab.com/online/dohertys-irish-pub-restaurant-cary",
 		"farmside": "https://order.farmsidekitchen.com/order/farmside-kitchen-cary-waverlyplace?diningOption=takeout",
-		"chengdu": "https://www.chengdu7cary.com/order/main-menu/special-combo",
+		"goji": "https://gojiyagave.com/menu",
+		"mezcalito": "https://www.toasttab.com/local/order/mezcalitogrill/r-04fd899a-a6d7-4ea2-8758-8646fe7f6430?diningOption=takeout",
 		"la farm": "https://order.online/online-ordering/store/la-farm-bakery-cary-208311/?hideModal=true&pickup=true"
     }
 }
