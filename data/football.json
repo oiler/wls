@@ -15,7 +15,7 @@
         },
         "espn football": {
             "espn": "http://www.espn.com/nfl/scoreboard",
-            "turf": "https://fantasy.espn.com/football/team?leagueId=1894980&teamId=12",
+			"picks": "https://fantasy.espn.com/games/nfl-pickem-2026/picks?id=f7cc29a0-ac8b-11f1-b79b-878cc15323ad",
             "money": "https://fantasy.espn.com/football/team?leagueId=795997812&teamId=4"
         },
         "fo": {
